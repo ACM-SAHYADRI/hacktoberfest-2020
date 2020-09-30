@@ -4,7 +4,7 @@
 
 ##### If you are participating in hacktoberfest for the first time this repo is for you
 
-#### Ordered list
+#### What to do?
                 
 1. Fork this repo
 2. Edit main.js
@@ -15,7 +15,7 @@
 
 After the Pull Request has been accepted your name will be displayed here [View](https://acm-sahyadri.github.io/-hacktoberfest-2020)
 
-## Steps to upload your info
+## Steps to Contribute
 
 1. You can find the below line at the beginning of main.js
 

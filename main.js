@@ -11,7 +11,7 @@ let contributers=[
     {
         "name":"Shobith Mallya",
         "college":"SCEM",
-        "image":"images/Shobith_Mallya.JPG",
+        "image":"images/Shobith_Mallya.png",
         "github":"https://github.com/ShobithMLYA",
         "linkedin":"https://www.linkedin.com/in/shobithmallya/",
         "instagram":"https://instagram.com/shobithmallya"

@@ -1,5 +1,13 @@
 let contributers=[
     {
+        "name":"Akhil Chaudhary",
+        "college":"ABES Institute of Technology",
+        "image":"images/akhilchaudhary.jpg",
+        "github":"https://github.com/Akhil-chaudhary/",
+        "linkedin":"https://www.linkedin.com/in/akhil-chaudhary-0478a1187",
+        "instagram":"https://www.instagram.com/akhilchaudhary.js/"
+    },
+    {
         "name":"Likhith RK",
         "college":"SCEM",
         "image":"images/likhith.jpg",

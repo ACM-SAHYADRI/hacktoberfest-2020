@@ -7,6 +7,15 @@ let contributers=[
         "linkedin":"https://linkedin.com/in/likhith-rk",
         "instagram":"https://instagram.com/lucifer_rk_"
     },
+    
+    {
+        "name":"Shobith Mallya",
+        "college":"SCEM",
+        "image":"images/Shobith_Mallya.JPG",
+        "github":"https://github.com/ShobithMLYA",
+        "linkedin":"https://www.linkedin.com/in/shobithmallya/",
+        "instagram":"https://instagram.com/shobithmallya"
+    },
 ]
 
 

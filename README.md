@@ -49,6 +49,7 @@ let contributers=[
   "linkedin" : "YOUR_LINKEDIN_LINK",
   "instagram" : "YOUR_INSTAGRAM_LINK"
 }
+```
 
 4. Add your name in Contributers.txt
 

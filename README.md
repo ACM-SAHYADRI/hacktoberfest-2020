@@ -50,9 +50,10 @@ let contributers=[
   "instagram" : "YOUR_INSTAGRAM_LINK"
 }
 ```
+4. Put your image with the name specified in "image" : "images/YOUR_NAME.[jpg/png]" into images folder
 
-4. Add your name in Contributers.txt
+5. Add your name in Contributers.txt
 
-5. Send Pull Request
+6. Send Pull Request
 
 # Happy Hacking !!

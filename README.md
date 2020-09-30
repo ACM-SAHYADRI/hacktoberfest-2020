@@ -1,4 +1,4 @@
-# -hacktoberfest-2020
+# hacktoberfest-2020
 
 #### A PUBLIC REPOSITORY OPEN TO BE CONTRIBUTED FOR HACKTOBERFEST 2020
 

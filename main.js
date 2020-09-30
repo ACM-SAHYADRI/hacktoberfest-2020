@@ -16,6 +16,15 @@ let contributers=[
         "linkedin":"https://www.linkedin.com/in/shobithmallya/",
         "instagram":"https://instagram.com/shobithmallya"
     },
+    
+    {
+        "name":"K Samarth N Kamath",
+        "college":"SCEM",
+        "image":"images/Samarth Kamath.png",
+        "github":"https://github.com/k-samarth",
+        "linkedin":"https://www.linkedin.com/in/kamathsamarth",
+        "instagram":"https://instagram.com/kamath_samarth"
+    },
 ]
 
 

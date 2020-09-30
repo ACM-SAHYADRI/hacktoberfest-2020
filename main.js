@@ -20,7 +20,7 @@ let contributers=[
     {
         "name":"K Samarth N Kamath",
         "college":"SCEM",
-        "image":"images/Samarth Kamath.png",
+        "image":"images/Samarth Kamath.jpg",
         "github":"https://github.com/k-samarth",
         "linkedin":"https://www.linkedin.com/in/kamathsamarth",
         "instagram":"https://instagram.com/kamath_samarth"

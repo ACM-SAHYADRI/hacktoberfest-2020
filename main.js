@@ -25,6 +25,14 @@ let contributers=[
         "linkedin":"https://www.linkedin.com/in/kamathsamarth",
         "instagram":"https://instagram.com/kamath_samarth"
     },
+    {
+        "name":"Swasthik C Nayak",
+        "college":"MITM",
+        "image":"images/swasthik.png",
+        "github":"https://github.com/swasthikcnayak",
+        "linkedin":"https://www.linkedin.com/in/swasthikcnayak",
+        "instagram":"https://instagram.com/__swasthik_"
+    }
 ]
 
 

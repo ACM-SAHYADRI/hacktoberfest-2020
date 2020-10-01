@@ -90,6 +90,14 @@ let contributers=[
       "github":"https://github.com/upasanadeka",
       "linkedin":"https://www.linkedin.com/in/upasana-deka",
       "instagram":"https://www.instagram.com/upasanadeka"
+    },
+    {
+      "name" : "Ashika K Naik",
+      "college" : "Sahyadri College of Engineering and Management",
+      "image" : "images/Ashika",
+      "github" : "https://github.com/ashikanaik",
+      "linkedin" : "www.linkedin.com/in/ashika-naik-872559183",
+      "instagram" : "https://www.instagram.com/_ashikanaik_16"
     }
 ]
 

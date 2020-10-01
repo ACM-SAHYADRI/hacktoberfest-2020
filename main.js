@@ -138,8 +138,15 @@ let contributers=[
         "github":"https://github.com/sukanyashet",
         "linkedin":"https://www.linkedin.com/in/sukanya-shet-s-465271181/",
         "instagram":"https://www.instagram.com/su_kan_yaa",
+     },
+    "name":"Deeksha PK",
+        "college":"SCEM",
+        "image":"images/Deeksha PK.jpg",
+        "github":"https://github.com/deekshapk09",
+        "linkedin":"https://www.linkedin.com/in/deeksha-p-k-785632191",
+        "instagram":"https://www.instagram.com/deeksha_karmale",
      }
-]
+    ]
 
 
 

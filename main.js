@@ -186,6 +186,14 @@ let contributers=[
         "github":"https://github.com/BranYummy",
         "linkedin":"https://www.linkedin.com/in/brendan-yumnam-a60080164",
         "instagram":"https://www.instagram.com/_branny_17_",
+    },
+    {
+        "name":"Danish Shaikh",
+        "college":"KCCOE",
+        "image":"images/dan.jpeg",
+        "github":"https://github.com/danishsshaikh",
+        "linkedin":"https://www.linkedin.com/in/danishsshaikh/",
+        "instagram":"",
     }
  ]
 

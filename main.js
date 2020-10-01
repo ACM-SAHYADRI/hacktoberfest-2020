@@ -57,10 +57,20 @@ let contributers=[
         "github":"https://github.com/Sushmanayak2000",
         "linkedin":"https://www.linkedin.com/in/sushmanayak05/",
         "instagram":"https://www.instagram.com/sushmaberkala/"
+    },
+    {
+        "name":"Bhargavi Nayak",
+        "college":"NMAMIT",
+        "image":"images/bhargavi.jpeg",
+        "github":"https://github.com/Bhargavi09",
+        "linkedin":"https://www.linkedin.com/in/bhargavi-nayak-7a535819b/",
+        "instagram":"https://www.instagram.com/_nayakbhargavi_/"
     }
 ]
 
 
+
+    
 
 
 

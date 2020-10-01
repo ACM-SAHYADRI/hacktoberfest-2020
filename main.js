@@ -126,7 +126,7 @@ let contributers=[
     {
         "name":"Vibha V",
         "college":"SCEM",
-        "image":"images/vibha v.jpg",
+        "image":"images/vibha v.jpeg",
         "github":"https://github.com/vibha-v",
         "linkedin":"https://www.linkedin.com/in/vibha-v",
         "instagram":"https://www.instagram.com/_.vib_haa._",

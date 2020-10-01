@@ -33,6 +33,14 @@ let contributers=[
         "linkedin":"https://www.linkedin.com/in/kamathsamarth",
         "instagram":"https://instagram.com/kamath_samarth"
     },
+    {
+        "name":"Vrashank Rao M",
+        "college":"SCEM",
+        "image":"images/vrashank.jpg",
+        "github":"https://github.com/VrashankRao",
+        "linkedin":"https://www.linkedin.com/in/vrashank-rao-m-44b37a168/",
+        "instagram":"https://www.instagram.com/vrashankrao/?hl=en"
+    },
 ]
 
 

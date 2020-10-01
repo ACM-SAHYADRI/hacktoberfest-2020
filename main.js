@@ -138,7 +138,7 @@ let contributers=[
         "github":"https://github.com/sukanyashet",
         "linkedin":"https://www.linkedin.com/in/sukanya-shet-s-465271181/",
         "instagram":"https://www.instagram.com/su_kan_yaa",
-     }, 
+     },
      {
         "name":"Prakyath H N", 
         "college":" SCEM", 
@@ -146,8 +146,15 @@ let contributers=[
         "github":"https://github.com/Prakyath17", 
         "linkedin":"https://www.linkedin.com/in/prakyath-h-n-9539b11b8", 
         "instagram":"https://instagram.com/prakii_boy?igshid=1a00ogsbjhnre", 
+     },
+        "name":"Deeksha PK",
+        "college":"SCEM",
+        "image":"images/Deeksha PK.jpg",
+        "github":"https://github.com/deekshapk09",
+        "linkedin":"https://www.linkedin.com/in/deeksha-p-k-785632191",
+        "instagram":"https://www.instagram.com/deeksha_karmale",
      }
-]
+ ]
 
 
 

@@ -25,7 +25,31 @@ let contributers=[
         "linkedin":"https://www.linkedin.com/in/kamathsamarth",
         "instagram":"https://instagram.com/kamath_samarth"
     },
-    
+    {
+        "name":"Akhil Chaudhary",
+        "college":"ABES Institute of Technology",
+        "image":"images/akhilchaudhary.jpg",
+        "github":"https://github.com/Akhil-chaudhary/",
+        "linkedin":"https://www.linkedin.com/in/akhil-chaudhary-0478a1187",
+        "instagram":"https://www.instagram.com/akhilchaudhary.js/"
+    },
+    {
+        "name":"Vrashank Rao M",
+        "college":"SCEM",
+        "image":"images/vrashank.jpg",
+        "github":"https://github.com/VrashankRao",
+        "linkedin":"https://www.linkedin.com/in/vrashank-rao-m-44b37a168/",
+        "instagram":"https://www.instagram.com/vrashankrao/?hl=en"
+    },
+    {
+
+        "name":"Swasthik C Nayak",
+        "college":"MITM",
+        "image":"images/swasthik.png",
+        "github":"https://github.com/swasthikcnayak",
+        "linkedin":"https://www.linkedin.com/in/swasthikcnayak",
+        "instagram":"https://instagram.com/__swasthik_"
+    },
     {
         "name":"Sushma",
         "college":"SCEM",
@@ -33,7 +57,7 @@ let contributers=[
         "github":"https://github.com/Sushmanayak2000",
         "linkedin":"https://www.linkedin.com/in/sushmanayak05/",
         "instagram":"https://www.instagram.com/sushmaberkala/"
-    },
+    }
 ]
 
 

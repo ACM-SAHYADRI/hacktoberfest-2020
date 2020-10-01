@@ -186,7 +186,15 @@ let contributers=[
         "github":"https://github.com/BranYummy",
         "linkedin":"https://www.linkedin.com/in/brendan-yumnam-a60080164",
         "instagram":"https://www.instagram.com/_branny_17_",
-    }
+    },
+    {
+        "name":"M Vishwas Kamath", 
+        "college":"SCEM", 
+        "image": "images/vishwas.jpg",
+        "github":"https://github.com/vishwaskamath", 
+        "linkedin":"https://www.linkedin.com/in/mvishwaskamath/", 
+        "instagram":"https://www.instagram.com/vishwas_kamath/", 
+     },
  ]
 
 

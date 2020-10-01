@@ -158,10 +158,18 @@ let contributers=[
      {
         "name":"Akshay",
         "college":"MSIT",
-        "image":"images/akshay.jpeg",
+        "image":"images/Akshay.jpeg",
         "github":"https://github.com/tvibhu12",
         "linkedin":"https://www.linkedin.com/in/akshaytiwari12",
         "instagram":""
+     },
+    {
+        "name":"Krishnanand Bhat", 
+        "college":"SCEM", 
+        "image": "images/krishnanand bhat.jpg",
+        "github":"https://github.com/krishna55570", 
+        "linkedin":"https://www.linkedin.com/in/krishnanand-bhat-344198191/", 
+        "instagram":"https://www.instagram.com/_krish_na_5/", 
      },
      {
         "name":"Krishna Shenoy S",

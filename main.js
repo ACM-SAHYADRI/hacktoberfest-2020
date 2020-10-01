@@ -98,7 +98,15 @@ let contributers=[
       "github":"https://github.com/RishabhNaik",
       "linkedin":"https://www.linkedin.com/in/rishabh-naik-4391221ab/",
       "instagram":"https://www.instagram.com/rishabh._.naik/"
-    }
+    },
+    {
+        "name":"Tripti Rao",
+        "college":"SCEM",
+        "image":"images/Tripti.jpg",
+        "github":"https://github.com/Tripti19-Rao",
+        "linkedin":"https://www.linkedin.com/in/tripti-rao-a18834193",
+        "instagram":"https://www.instagram.com/miss_rao_1325",
+    },
 ]
 
 

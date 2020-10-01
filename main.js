@@ -178,7 +178,15 @@ let contributers=[
         "github":"https://github.com/krishnashenoy123",
         "linkedin":"https://www.linkedin.com/in/krishna-shenoy-s-9202151b8/",
         "instagram":"https://www.instagram.com/kitta_shenai"
-     }
+     },
+    {
+        "name":"Brendan Yumnam",
+        "college":"SCEM",
+        "image":"images/Brendan.jpg",
+        "github":"https://github.com/BranYummy",
+        "linkedin":"https://www.linkedin.com/in/brendan-yumnam-a60080164",
+        "instagram":"https://www.instagram.com/_branny_17_",
+    }
  ]
 
 

@@ -77,8 +77,8 @@ let contributers=[
     },
     {
       "name":"Arkadyuti Bandyopadhyay",
-      "college":"RCC Institute of Information Technology",
-      "image":"images/Arkadyuti_Bandyopadhyay.jpeg",
+      "college":"RCC Institute of IT",
+      "image":"images/Arkadyuti_Bandyopadhyay.jpg",
       "github":"https://github.com/ARKEOLOGIST",
       "linkedin":"https://www.linkedin.com/in/arkadyuti-bandyopadhyay-a8a965177/",
       "instagram":""

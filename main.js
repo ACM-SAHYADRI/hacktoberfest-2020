@@ -142,7 +142,7 @@ let contributers=[
      {
         "name":"Prakyath H N", 
         "college":" SCEM", 
-        "image": "image/prakyath.jpeg",
+        "image": "images/prakyath.jpeg",
         "github":"https://github.com/Prakyath17", 
         "linkedin":"https://www.linkedin.com/in/prakyath-h-n-9539b11b8", 
         "instagram":"https://instagram.com/prakii_boy?igshid=1a00ogsbjhnre", 
@@ -158,7 +158,7 @@ let contributers=[
      {
         "name":"Akshay",
         "college":"MSIT",
-        "image":"image/akshay.jpeg",
+        "image":"images/akshay.jpeg",
         "github":"https://github.com/tvibhu12",
         "linkedin":"https://www.linkedin.com/in/akshaytiwari12",
         "instagram":""

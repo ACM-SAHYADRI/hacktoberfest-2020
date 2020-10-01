@@ -186,7 +186,15 @@ let contributers=[
         "github":"https://github.com/BranYummy",
         "linkedin":"https://www.linkedin.com/in/brendan-yumnam-a60080164",
         "instagram":"https://www.instagram.com/_branny_17_",
-    }
+    },
+    {
+        "name" : "Uttam Kini H",
+        "college" : "Tech Lead",
+        "image" : "images/Uttam.jpg",
+        "github" : "https://github.com/UttamkiniH",
+        "linkedin" : "https://www.linkedin.com/in/uttam-kini/",
+        "instagram" : ""
+      }
  ]
 
 

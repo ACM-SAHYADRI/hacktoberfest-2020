@@ -122,6 +122,14 @@ let contributers=[
         "github":"https://github.com/Tripti19-Rao",
         "linkedin":"https://www.linkedin.com/in/tripti-rao-a18834193",
         "instagram":"https://www.instagram.com/miss_rao_1325",
+    },
+     {
+        "name":"keerthika",
+        "college":"SCEM",
+        "image":"images/KEE.jpg",
+        "github":"https://github.com/keerthika15K",
+        "linkedin":"https://www.linkedin.com/in/keerthika-kadri-9ba2b9186/",
+        "instagram":"https://www.instagram.com/kkadri7/"
     }
 ]
 

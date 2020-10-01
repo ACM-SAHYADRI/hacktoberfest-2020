@@ -25,6 +25,15 @@ let contributers=[
         "linkedin":"https://www.linkedin.com/in/kamathsamarth",
         "instagram":"https://instagram.com/kamath_samarth"
     },
+    
+    {
+        "name":"Sushma",
+        "college":"SCEM",
+        "image":"images/Sushma.jpg",
+        "github":"https://github.com/Sushmanayak2000",
+        "linkedin":"https://www.linkedin.com/in/sushmanayak05/",
+        "instagram":"https://www.instagram.com/sushmaberkala/"
+    },
 ]
 
 

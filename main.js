@@ -170,6 +170,14 @@ let contributers=[
         "github":"https://github.com/krishna55570", 
         "linkedin":"https://www.linkedin.com/in/krishnanand-bhat-344198191/", 
         "instagram":"https://www.instagram.com/_krish_na_5/", 
+     },
+     {
+        "name":"Krishna Shenoy S",
+        "college":"UVCE",
+        "image":"images/krishna.jpg",
+        "github":"https://github.com/krishnashenoy123",
+        "linkedin":"https://www.linkedin.com/in/krishna-shenoy-s-9202151b8/",
+        "instagram":"https://www.instagram.com/kitta_shenai"
      }
  ]
 

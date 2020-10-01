@@ -83,6 +83,14 @@ let contributers=[
       "linkedin":"https://www.linkedin.com/in/arkadyuti-bandyopadhyay-a8a965177/",
       "instagram":""
     }
+    {
+        "name":"Shamitha.G",
+        "college":"SCEM",
+        "image":"images/Shamitha.jpeg",
+        "github":"https://github.com/shamithag131",
+        "linkedin":"https://www.linkedin.com/in/shamitha-g-9b4198181/",
+        "instagram":""
+      }
 ]
 
 

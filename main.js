@@ -52,6 +52,14 @@ let contributers=[
         "instagram":"https://instagram.com/__swasthik_"
     },
     {
+        "name":"Shashidhar Pai B",
+        "college":"BMSCE",
+        "image":"images/shashidharPai.jpg",
+        "github":"https://github.com/Shashidharpai",
+        "linkedin":"https://www.linkedin.com/in/shashidhar-pai-b-9651a0181",
+        "instagram":"https://instagram.com/shashidhar_pai_b"
+    },
+    {
         "name":"Sushma",
         "college":"SCEM",
         "image":"images/Sushma.JPG",
@@ -140,12 +148,12 @@ let contributers=[
         "instagram":"https://www.instagram.com/su_kan_yaa",
      },
      {
-        "name":"Prakyath H N", 
-        "college":" SCEM", 
+        "name":"Prakyath H N",
+        "college":" SCEM",
         "image": "images/prakyath.jpeg",
-        "github":"https://github.com/Prakyath17", 
-        "linkedin":"https://www.linkedin.com/in/prakyath-h-n-9539b11b8", 
-        "instagram":"https://instagram.com/prakii_boy?igshid=1a00ogsbjhnre", 
+        "github":"https://github.com/Prakyath17",
+        "linkedin":"https://www.linkedin.com/in/prakyath-h-n-9539b11b8",
+        "instagram":"https://instagram.com/prakii_boy?igshid=1a00ogsbjhnre",
      },
      {
         "name":"Deeksha PK",
@@ -164,12 +172,12 @@ let contributers=[
         "instagram":""
      },
     {
-        "name":"Krishnanand Bhat", 
-        "college":"SCEM", 
+        "name":"Krishnanand Bhat",
+        "college":"SCEM",
         "image": "images/krishnanand bhat.jpg",
-        "github":"https://github.com/krishna55570", 
-        "linkedin":"https://www.linkedin.com/in/krishnanand-bhat-344198191/", 
-        "instagram":"https://www.instagram.com/_krish_na_5/", 
+        "github":"https://github.com/krishna55570",
+        "linkedin":"https://www.linkedin.com/in/krishnanand-bhat-344198191/",
+        "instagram":"https://www.instagram.com/_krish_na_5/",
      },
      {
         "name":"Krishna Shenoy S",

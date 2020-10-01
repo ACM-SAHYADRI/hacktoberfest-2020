@@ -122,6 +122,14 @@ let contributers=[
         "github":"https://github.com/Tripti19-Rao",
         "linkedin":"https://www.linkedin.com/in/tripti-rao-a18834193",
         "instagram":"https://www.instagram.com/miss_rao_1325",
+    },
+    {
+        "name":"Sukanya Shet S",
+        "college":"Ramiah University of Applied Sciences",
+        "image":"images/Sukanya.jpg",
+        "github":"https://github.com/sukanyashet",
+        "linkedin":"https://www.linkedin.com/in/sukanya-shet-s-465271181/",
+        "instagram":"https://www.instagram.com/su_kan_yaa",
     }
 ]
 

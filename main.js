@@ -81,7 +81,7 @@ let contributers=[
       "image":"images/Arkadyuti_Bandyopadhyay.jpeg",
       "github":"https://github.com/ARKEOLOGIST",
       "linkedin":"https://www.linkedin.com/in/arkadyuti-bandyopadhyay-a8a965177/",
-      "instagram":"Not Applicable"
+      "instagram":""
     }
 ]
 

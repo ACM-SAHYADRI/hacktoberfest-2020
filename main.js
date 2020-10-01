@@ -29,7 +29,7 @@ let contributers=[
     {
         "name":"Bhargavi Nayak",
         "college":"NMAMIT",
-        "image":"images/bhargavi.jpg",
+        "image":"images/bhargavi.jpeg",
         "github":"https://github.com/Bhargavi09",
         "linkedin":"https://www.linkedin.com/in/bhargavi-nayak-7a535819b/",
         "instagram":"https://www.instagram.com/_nayakbhargavi_/"

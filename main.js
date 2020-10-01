@@ -77,7 +77,7 @@ let contributers=[
     },
     {
       "name":"Arkadyuti Bandyopadhyay",
-      "college":"RCC Institute of IT",
+      "college":"RCC Institute of Information Technology",
       "image":"images/Arkadyuti_Bandyopadhyay.jpg",
       "github":"https://github.com/ARKEOLOGIST",
       "linkedin":"https://www.linkedin.com/in/arkadyuti-bandyopadhyay-a8a965177/",
@@ -100,13 +100,29 @@ let contributers=[
       "instagram":"https://www.instagram.com/rishabh._.naik/"
     },
     {
+        "name":"Shamitha.G",
+        "college":"SCEM",
+        "image":"images/Shamitha.jpeg",
+        "github":"https://github.com/shamithag131",
+        "linkedin":"https://www.linkedin.com/in/shamitha-g-9b4198181/",
+        "instagram":""
+    },
+    {
+      "name" : "Ashika K Naik",
+      "college" : "SCEM",
+      "image" : "images/Ashika.jpg",
+      "github" : "https://github.com/ashikanaik",
+      "linkedin" : "www.linkedin.com/in/ashika-naik-872559183",
+      "instagram" : "https://www.instagram.com/_ashikanaik_16"
+    },
+    {
         "name":"Tripti Rao",
         "college":"SCEM",
         "image":"images/Tripti.jpg",
         "github":"https://github.com/Tripti19-Rao",
         "linkedin":"https://www.linkedin.com/in/tripti-rao-a18834193",
         "instagram":"https://www.instagram.com/miss_rao_1325",
-    },
+    }
 ]
 
 

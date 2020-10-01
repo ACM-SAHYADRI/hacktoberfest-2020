@@ -49,8 +49,15 @@ let contributers=[
         "github":"https://github.com/swasthikcnayak",
         "linkedin":"https://www.linkedin.com/in/swasthikcnayak",
         "instagram":"https://instagram.com/__swasthik_"
+    },
+    {
+        "name":"Sushma",
+        "college":"SCEM",
+        "image":"images/Sushma.jpg",
+        "github":"https://github.com/Sushmanayak2000",
+        "linkedin":"https://www.linkedin.com/in/sushmanayak05/",
+        "instagram":"https://www.instagram.com/sushmaberkala/"
     }
-
 ]
 
 

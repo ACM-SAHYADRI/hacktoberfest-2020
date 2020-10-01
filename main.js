@@ -75,7 +75,14 @@ let contributers=[
       "linkedin":"https://www.linkedin.com/in/puneeth-k-shetty-3b0b06173",
       "instagram":"https://www.instagram.com/_mr.unique_dude/?hl=en",
     },
-
+    {
+      "name":"Arkadyuti Bandyopadhyay",
+      "college":"RCC Institute of Information Technology",
+      "image":"images/Arkadyuti_Bandyopadhyay.jpeg",
+      "github":"https://github.com/ARKEOLOGIST",
+      "linkedin":"https://www.linkedin.com/in/arkadyuti-bandyopadhyay-a8a965177/",
+      "instagram":"Not Applicable"
+    }
 ]
 
 

@@ -54,7 +54,7 @@ let contributers=[
     {
         "name":"Sushma",
         "college":"SCEM",
-        "image":"images/Sushma.jpg",
+        "image":"images/Sushma.JPG",
         "github":"https://github.com/Sushmanayak2000",
         "linkedin":"https://www.linkedin.com/in/sushmanayak05/",
         "instagram":"https://www.instagram.com/sushmaberkala/"

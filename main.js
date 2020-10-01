@@ -122,7 +122,17 @@ let contributers=[
         "github":"https://github.com/Tripti19-Rao",
         "linkedin":"https://www.linkedin.com/in/tripti-rao-a18834193",
         "instagram":"https://www.instagram.com/miss_rao_1325",
+    },
+    {
+        "name":"Nireeksha M.N",
+        "college":"SCEM",
+        "image":"images/nireeksha.jpg",
+        "github":"https://github.com/nireekshamn",
+        "linkedin":"https://www.linkedin.com/in/nireeksha-mn/",
+        "instagram":"https://www.instagram.com/nireeksha.mn/",
     }
+   
+    
 ]
 
 

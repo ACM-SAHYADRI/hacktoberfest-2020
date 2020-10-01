@@ -129,8 +129,16 @@ let contributers=[
         "image":"images/vibha v.jpeg",
         "github":"https://github.com/vibha-v",
         "linkedin":"https://www.linkedin.com/in/vibha-v",
-        "instagram":"https://www.instagram.com/_.vib_haa._",
-    }
+        "instagram":"https://www.instagram.com/_.vib_haa._",.
+    },
+    {
+        "name":"Sukanya Shet S",
+        "college":"Ramiah University of Applied Sciences",
+        "image":"images/Sukanya.jpg",
+        "github":"https://github.com/sukanyashet",
+        "linkedin":"https://www.linkedin.com/in/sukanya-shet-s-465271181/",
+        "instagram":"https://www.instagram.com/su_kan_yaa",
+     }
 ]
 
 

@@ -66,7 +66,16 @@ let contributers=[
         "github":"https://github.com/Bhargavi09",
         "linkedin":"https://www.linkedin.com/in/bhargavi-nayak-7a535819b/",
         "instagram":"https://www.instagram.com/_nayakbhargavi_/"
-    }
+    },
+    {
+      "name":"Puneeth K Shetty",
+      "college":"SCEM",
+      "image":"images/puneeth.jpeg",
+      "github":"https://github.com/PuneethKshetty",
+      "linkedin":"https://www.linkedin.com/in/puneeth-k-shetty-3b0b06173",
+      "instagram":"https://www.instagram.com/_mr.unique_dude/?hl=en",
+    },
+
 ]
 
 

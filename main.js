@@ -158,7 +158,7 @@ let contributers=[
      {
         "name":"Akshay",
         "college":"MSIT",
-        "image":"images/akshay.jpeg",
+        "image":"images/Akshay.jpeg",
         "github":"https://github.com/tvibhu12",
         "linkedin":"https://www.linkedin.com/in/akshaytiwari12",
         "instagram":""

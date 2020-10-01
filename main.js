@@ -106,6 +106,14 @@ let contributers=[
         "github":"https://github.com/shamithag131",
         "linkedin":"https://www.linkedin.com/in/shamitha-g-9b4198181/",
         "instagram":""
+    },
+    {
+      "name" : "Ashika K Naik",
+      "college" : "SCEM",
+      "image" : "images/Ashika.jpg",
+      "github" : "https://github.com/ashikanaik",
+      "linkedin" : "www.linkedin.com/in/ashika-naik-872559183",
+      "instagram" : "https://www.instagram.com/_ashikanaik_16"
     }
 ]
 

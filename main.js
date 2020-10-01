@@ -114,6 +114,14 @@ let contributers=[
       "github" : "https://github.com/ashikanaik",
       "linkedin" : "www.linkedin.com/in/ashika-naik-872559183",
       "instagram" : "https://www.instagram.com/_ashikanaik_16"
+    },
+    {
+        "name":"Tripti Rao",
+        "college":"SCEM",
+        "image":"images/Tripti.jpg",
+        "github":"https://github.com/Tripti19-Rao",
+        "linkedin":"https://www.linkedin.com/in/tripti-rao-a18834193",
+        "instagram":"https://www.instagram.com/miss_rao_1325",
     }
 ]
 

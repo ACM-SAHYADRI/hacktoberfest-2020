@@ -186,6 +186,14 @@ let contributers=[
         "github":"https://github.com/BranYummy",
         "linkedin":"https://www.linkedin.com/in/brendan-yumnam-a60080164",
         "instagram":"https://www.instagram.com/_branny_17_",
+    },
+    {
+        "name":"Renan Miranda",
+        "college":"UNINOVE",
+        "image":"images/Renan_Miranda.jpg",
+        "github":"https://github.com/renanlmiranda",
+        "linkedin":"https://www.linkedin.com/in/renanlmiranda/",
+        "instagram":"https://www.instagram.com/renan_miraanda/", 
     }
  ]
 

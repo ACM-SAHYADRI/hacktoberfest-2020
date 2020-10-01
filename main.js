@@ -82,6 +82,14 @@ let contributers=[
       "github":"https://github.com/ARKEOLOGIST",
       "linkedin":"https://www.linkedin.com/in/arkadyuti-bandyopadhyay-a8a965177/",
       "instagram":""
+    },
+    {
+      "name":"Upasana Deka",
+      "college":"Noida Institute of Engineering and Technology",
+      "image":"images/upasana_deka.jpg",
+      "github":"https://github.com/upasanadeka",
+      "linkedin":"https://www.linkedin.com/in/upasana-deka",
+      "instagram":"https://www.instagram.com/upasanadeka"
     }
 ]
 

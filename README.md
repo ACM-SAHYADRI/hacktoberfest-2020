@@ -13,7 +13,7 @@
 5. Commit and push
 6. Send a Pull Request
 
-After the Pull Request has been accepted your name will be displayed here [View](https://acm-sahyadri.github.io/-hacktoberfest-2020)
+After the Pull Request has been accepted your name will be displayed here [View](https://acm-sahyadri.github.io/hacktoberfest-2020)
 
 ## Steps to Contribute
 

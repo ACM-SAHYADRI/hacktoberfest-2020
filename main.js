@@ -122,6 +122,14 @@ let contributers=[
         "github":"https://github.com/Tripti19-Rao",
         "linkedin":"https://www.linkedin.com/in/tripti-rao-a18834193",
         "instagram":"https://www.instagram.com/miss_rao_1325",
+    },
+    {
+        "name":"Vibha V",
+        "college":"SCEM",
+        "image":"images/vibha v.jpg",
+        "github":"https://github.com/vibha-v",
+        "linkedin":"https://www.linkedin.com/in/vibha-v",
+        "instagram":"https://www.instagram.com/_.vib_haa._",
     }
 ]
 

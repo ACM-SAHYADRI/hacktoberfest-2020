@@ -98,7 +98,7 @@ let contributers=[
       "github":"https://github.com/RishabhNaik",
       "linkedin":"https://www.linkedin.com/in/rishabh-naik-4391221ab/",
       "instagram":"https://www.instagram.com/rishabh._.naik/"
-    }
+    },
     {
         "name":"Shamitha.G",
         "college":"SCEM",

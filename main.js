@@ -147,6 +147,7 @@ let contributers=[
         "linkedin":"https://www.linkedin.com/in/prakyath-h-n-9539b11b8", 
         "instagram":"https://instagram.com/prakii_boy?igshid=1a00ogsbjhnre", 
      },
+     {
         "name":"Deeksha PK",
         "college":"SCEM",
         "image":"images/Deeksha PK.jpg",

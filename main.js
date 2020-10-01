@@ -1,3 +1,4 @@
+//add your info at the end of this list
 let contributers=[
     {
         "name":"Likhith RK",
@@ -36,7 +37,7 @@ let contributers=[
     {
         "name":"Vrashank Rao M",
         "college":"SCEM",
-        "image":"images/vrashank.jpg",
+        "image":"images/vrashankrao.jpeg",
         "github":"https://github.com/VrashankRao",
         "linkedin":"https://www.linkedin.com/in/vrashank-rao-m-44b37a168/",
         "instagram":"https://www.instagram.com/vrashankrao/?hl=en"
@@ -45,7 +46,7 @@ let contributers=[
 
         "name":"Swasthik C Nayak",
         "college":"MITM",
-        "image":"images/swasthik.png",
+        "image":"images/swasthik.jpg",
         "github":"https://github.com/swasthikcnayak",
         "linkedin":"https://www.linkedin.com/in/swasthikcnayak",
         "instagram":"https://instagram.com/__swasthik_"
@@ -71,6 +72,9 @@ let contributers=[
 
 
     
+
+
+
 
 
 

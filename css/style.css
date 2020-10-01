@@ -296,7 +296,7 @@ header .social-icon li a
 #team .team-wrapper:hover
 	{
 		cursor: pointer;
-		opacity: 0.4;
+		opacity: 0.9;
 		bottom: 4px;
 	}
 #team .team-wrapper .team-des

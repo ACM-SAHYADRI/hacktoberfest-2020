@@ -90,7 +90,7 @@ let contributers=[
       "github":"https://github.com/upasanadeka",
       "linkedin":"https://www.linkedin.com/in/upasana-deka",
       "instagram":"https://www.instagram.com/upasanadeka"
-    }
+    },
     {
       "name":"Rishabh Naik",
       "college":"Sambhram Institute of Technology",

@@ -98,6 +98,14 @@ let contributers=[
       "github":"https://github.com/RishabhNaik",
       "linkedin":"https://www.linkedin.com/in/rishabh-naik-4391221ab/",
       "instagram":"https://www.instagram.com/rishabh._.naik/"
+    },
+    {
+        "name":"Shamitha.G",
+        "college":"SCEM",
+        "image":"images/Shamitha.jpeg",
+        "github":"https://github.com/shamithag131",
+        "linkedin":"https://www.linkedin.com/in/shamitha-g-9b4198181/",
+        "instagram":""
     }
 ]
 

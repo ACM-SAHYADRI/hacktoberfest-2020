@@ -142,11 +142,11 @@ let contributers=[
      {
         "name":"Prakyath H N", 
         "college":" SCEM", 
-        "image": "Image_prakyath.jpeg", 
+        "image": "image/prakyath.jpeg",
         "github":"https://github.com/Prakyath17", 
         "linkedin":"https://www.linkedin.com/in/prakyath-h-n-9539b11b8", 
         "instagram":"https://instagram.com/prakii_boy?igshid=1a00ogsbjhnre", 
-     }, 
+     }
 ]
 
 

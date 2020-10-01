@@ -8,7 +8,7 @@ let contributers=[
         "linkedin":"https://linkedin.com/in/likhith-rk",
         "instagram":"https://instagram.com/lucifer_rk_"
     },
-    
+
     {
         "name":"Shobith Mallya",
         "college":"SCEM",
@@ -17,7 +17,7 @@ let contributers=[
         "linkedin":"https://www.linkedin.com/in/shobithmallya/",
         "instagram":"https://instagram.com/shobithmallya"
     },
-    
+
     {
         "name":"K Samarth N Kamath",
         "college":"SCEM",
@@ -77,7 +77,7 @@ let contributers=[
     },
     {
       "name":"Arkadyuti Bandyopadhyay",
-      "college":"RCC Institute of IT",
+      "college":"RCC Institute of Information Technology",
       "image":"images/Arkadyuti_Bandyopadhyay.jpg",
       "github":"https://github.com/ARKEOLOGIST",
       "linkedin":"https://www.linkedin.com/in/arkadyuti-bandyopadhyay-a8a965177/",
@@ -92,9 +92,25 @@ let contributers=[
       "instagram":"https://www.instagram.com/upasanadeka"
     },
     {
+      "name":"Rishabh Naik",
+      "college":"Sambhram Institute of Technology",
+      "image":"images/Rishabh.jpeg",
+      "github":"https://github.com/RishabhNaik",
+      "linkedin":"https://www.linkedin.com/in/rishabh-naik-4391221ab/",
+      "instagram":"https://www.instagram.com/rishabh._.naik/"
+    },
+    {
+        "name":"Shamitha.G",
+        "college":"SCEM",
+        "image":"images/Shamitha.jpeg",
+        "github":"https://github.com/shamithag131",
+        "linkedin":"https://www.linkedin.com/in/shamitha-g-9b4198181/",
+        "instagram":""
+    },
+    {
       "name" : "Ashika K Naik",
-      "college" : "Sahyadri College of Engineering and Management",
-      "image" : "images/Ashika",
+      "college" : "SCEM",
+      "image" : "images/Ashika.jpg",
       "github" : "https://github.com/ashikanaik",
       "linkedin" : "www.linkedin.com/in/ashika-naik-872559183",
       "instagram" : "https://www.instagram.com/_ashikanaik_16"
@@ -103,7 +119,7 @@ let contributers=[
 
 
 
-    
+
 
 
 

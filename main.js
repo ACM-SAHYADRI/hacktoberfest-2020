@@ -25,9 +25,18 @@ let contributers=[
         "linkedin":"https://www.linkedin.com/in/kamathsamarth",
         "instagram":"https://instagram.com/kamath_samarth"
     },
-]
+    
+    {
+        "name":"Bhargavi Nayak",
+        "college":"NMAMIT",
+        "image":"images/bhargavi.jpg",
+        "github":"https://github.com/Bhargavi09",
+        "linkedin":"https://www.linkedin.com/in/bhargavi-nayak-7a535819b/",
+        "instagram":"https://www.instagram.com/_nayakbhargavi_/"
+    },
+    ]
 
-
+    
 
 
 

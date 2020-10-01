@@ -8,7 +8,7 @@ let contributers=[
         "linkedin":"https://linkedin.com/in/likhith-rk",
         "instagram":"https://instagram.com/lucifer_rk_"
     },
-    
+
     {
         "name":"Shobith Mallya",
         "college":"SCEM",
@@ -17,7 +17,7 @@ let contributers=[
         "linkedin":"https://www.linkedin.com/in/shobithmallya/",
         "instagram":"https://instagram.com/shobithmallya"
     },
-    
+
     {
         "name":"K Samarth N Kamath",
         "college":"SCEM",
@@ -82,12 +82,28 @@ let contributers=[
       "github":"https://github.com/ARKEOLOGIST",
       "linkedin":"https://www.linkedin.com/in/arkadyuti-bandyopadhyay-a8a965177/",
       "instagram":""
+    },
+    {
+      "name":"Upasana Deka",
+      "college":"Noida Institute of Engineering and Technology",
+      "image":"images/upasana_deka.jpg",
+      "github":"https://github.com/upasanadeka",
+      "linkedin":"https://www.linkedin.com/in/upasana-deka",
+      "instagram":"https://www.instagram.com/upasanadeka"
+    },
+    {
+      "name":"Rishabh Naik",
+      "college":"Sambhram Institute of Technology",
+      "image":"images/Rishabh.jpeg",
+      "github":"https://github.com/RishabhNaik",
+      "linkedin":"https://www.linkedin.com/in/rishabh-naik-4391221ab/",
+      "instagram":"https://www.instagram.com/rishabh._.naik/"
     }
 ]
 
 
 
-    
+
 
 
 

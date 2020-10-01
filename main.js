@@ -129,7 +129,7 @@ let contributers=[
         "image":"images/vibha v.jpeg",
         "github":"https://github.com/vibha-v",
         "linkedin":"https://www.linkedin.com/in/vibha-v",
-        "instagram":"https://www.instagram.com/_.vib_haa._",.
+        "instagram":"https://www.instagram.com/_.vib_haa._",
     },
     {
         "name":"Sukanya Shet S",

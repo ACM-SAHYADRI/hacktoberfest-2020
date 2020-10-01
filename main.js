@@ -154,13 +154,14 @@ let contributers=[
         "github":"https://github.com/deekshapk09",
         "linkedin":"https://www.linkedin.com/in/deeksha-p-k-785632191",
         "instagram":"https://www.instagram.com/deeksha_karmale",
-     }
+     },
      {
         "name":"Akshay",
         "college":"MSIT",
         "image":"image/akshay.jpeg",
         "github":"https://github.com/tvibhu12",
-        "linkedin":"https://www.linkedin.com/in/akshaytiwari12"
+        "linkedin":"https://www.linkedin.com/in/akshaytiwari12",
+        "instagram":""
      }
  ]
 

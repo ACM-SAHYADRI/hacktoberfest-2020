@@ -236,6 +236,14 @@ let contributers=[
         "instagram" : ""
      },
     {
+        "name":"Akshaj",
+        "college":"presidency university",
+        "image":"images/Akshaj.jpg",
+        "github":"https://github.com/akshaj65",
+        "instagram":"https://www.instagram.com/akshaj_0.o/"
+	"linkedin":""
+    },
+    {
         "name":"Priyanshu Bhattacharjee",
         "college":"Greenland Convent School",
         "image":"images/Priyanshu.jpg",

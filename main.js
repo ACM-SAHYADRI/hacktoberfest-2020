@@ -287,11 +287,20 @@ let contributers=[
 	  {
         "name":"Vikram P S",
         "college":"SCEM",
-        "image":"images/vikram p s.PNG",
+        "image":"images/vikram p s.jpg",
         "github":"https://github.com/vikramps12",
         "linkedin":"https://www.linkedin.com/in/vikram-p-s-b325991aa/",
         "instagram":"https://www.instagram.com/psvikram01/"
-	  }
+      },
+    {
+        "name":"Jabbar Memon",
+        "college":"DAIICT",
+        "image":"images/Jabbar_Memon.jpeg",
+        "github":"https://github.com/jabbar86",
+        "linkedin":"https://www.linkedin.com/in/jabbar-memon-4ab5347a/",
+        "instagram":"https://www.instagram.com/jabbar.1701/"
+    }
+    
  ]
 
 

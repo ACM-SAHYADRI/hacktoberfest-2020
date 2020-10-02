@@ -242,6 +242,14 @@ let contributers=[
         "github":"https://github.com/Priyanshu-CODERX",
         "linkedin":"https://www.linkedin.com/in/priyanshu-bhattacharjee/",
         "instagram":"https://www.instagram.com/priyanshu_coderx/"
+    },
+    {
+        "name":"Akshaj",
+        "college":"presidency university",
+        "image":"images/Akshaj.jpg",
+        "github":"https://github.com/akshaj65",
+        "instagram":"https://www.instagram.com/akshaj_0.o/",
+	"linkedin":""
     }
  ]
 

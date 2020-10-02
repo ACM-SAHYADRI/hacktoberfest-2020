@@ -258,7 +258,15 @@ let contributers=[
 		  "github":"https://github.com/vviittaall123",
 		  "linkedin":"https://www.linkedin.com/in/vittal-upadhyaya-259207193/",
 		  "instagram":"https://www.instagram.com/vittal2823/"
-	  }
+	  },
+	{
+        "name":"M Jesta Kamath",
+        "college":"BMS College of Engineering",
+        "image":"images/jesta.jpg",
+        "github":"https://github.com/mjestakamath",
+        "linkedin":"https://www.linkedin.com/in/m-jesta-kamath-719192181/",
+        "instagram":"https://www.instagram.com/__.1twinkle.__"
+	}
  ]
 
 

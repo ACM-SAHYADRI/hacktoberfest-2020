@@ -14,7 +14,7 @@ let contributers=[
         "github":"https://github.com/mohammedThohif",
         "linkedin":"https://www.linkedin.com/in/mohammed-thohif-1598b7195/",
         "instagram":"https://instagram.com/thwahif09"
-    },
+    }
 ]
 
 

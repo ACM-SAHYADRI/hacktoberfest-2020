@@ -308,7 +308,7 @@ let contributers=[
       "instagram":"https://www.instagram.com/rajath_mrp"
     },
     {
-        "name":"sanathraj",
+        "name":"Sanathraj",
         "college":"SCEM",
         "image":"images/sanathraj.png",
         "github":"https://github.com/kar108",
@@ -316,7 +316,7 @@ let contributers=[
 	      "linkedin":""
     },
      {
-        "name":"keerthika",
+        "name":"Keerthika",
         "college":"SCEM",
         "image":"images/KEE.jpg",
         "github":"https://github.com/keerthika15K",

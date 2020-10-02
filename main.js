@@ -114,7 +114,15 @@ let contributers=[
       "github" : "https://github.com/ashikanaik",
       "linkedin" : "www.linkedin.com/in/ashika-naik-872559183",
       "instagram" : "https://www.instagram.com/_ashikanaik_16"
-    }
+    },
+    {
+        "name" : "Mahima M",
+        "college" : "SCEM",
+        "image" : "images/Mahi.jpg",
+        "github" : "https://github.com/mahi252001",
+        "linkedin" : "https://www.linkedin.com/in/mahima-m-706288190",
+        "instagram": "https://www.instagram.com/mahi_25"
+      }
 ]
 
 

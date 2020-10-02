@@ -235,20 +235,22 @@ header .social-icon li a
 #home .btn
 	{
 		background: transparent;
-		border-radius: 2px;
-		color: #fff;
-		font-size: 16px;
+		border-radius: 40px;
+		border-color: rgba(255, 255, 255, 0.877);
+		color: rgb(255, 255, 255);
+		font-size: 18px;
 		font-weight: bold;
 		margin-top: 20px;
 		width: 180px;
 		height: 60px;
 		padding-top: 18px;
-		-webkit-transition: all 0.4s ease-in-out;
-		        transition: all 0.4s ease-in-out;
+		-webkit-transition: all 0.3s ease-in-out;
+		        transition: all 0.3s ease-in-out;
 	}
 #home .btn:hover
 	{
-		background: #28a7e9;
+		background: rgba(252, 252, 252,0.85);
+		color:#0080c5;
 		border-color: transparent;
 	}
 .element {

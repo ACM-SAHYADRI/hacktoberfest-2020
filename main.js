@@ -218,7 +218,15 @@ let contributers=[
         "github":"https://github.com/danishsshaikh",
         "linkedin":"https://www.linkedin.com/in/danishsshaikh/",
         "instagram":""
-    }
+    },
+    {
+        "name":"M Vishwas Kamath", 
+        "college":"SCEM", 
+        "image": "images/vishwas.jpg",
+        "github":"https://github.com/vishwaskamath", 
+        "linkedin":"https://www.linkedin.com/in/mvishwaskamath/", 
+        "instagram":"https://www.instagram.com/vishwas_kamath/" 
+     }
  ]
 
 

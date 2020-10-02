@@ -226,6 +226,14 @@ let contributers=[
         "github":"https://github.com/vishwaskamath", 
         "linkedin":"https://www.linkedin.com/in/mvishwaskamath/", 
         "instagram":"https://www.instagram.com/vishwas_kamath/" 
+     },
+     {
+        "name" : "Uttam Kini H",
+        "college" : "SCEM",
+        "image" : "images/Uttam.jpg",
+        "github" : "https://github.com/UttamkiniH",
+        "linkedin" : "https://www.linkedin.com/in/uttam-kini/",
+        "instagram" : ""
      }
  ]
 

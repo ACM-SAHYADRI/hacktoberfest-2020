@@ -52,14 +52,6 @@ let contributers=[
         "instagram":"https://instagram.com/__swasthik_"
     },
     {
-        "name":"Shashidhar Pai B",
-        "college":"BMSCE",
-        "image":"images/shashidharPai.jpg",
-        "github":"https://github.com/Shashidharpai",
-        "linkedin":"https://www.linkedin.com/in/shashidhar-pai-b-9651a0181",
-        "instagram":"https://instagram.com/shashidhar_pai_b"
-    },
-    {
         "name":"Sushma",
         "college":"SCEM",
         "image":"images/Sushma.JPG",
@@ -202,6 +194,14 @@ let contributers=[
         "github":"https://github.com/NawalJAhmed",
         "linkedin":"https://www.linkedin.com/in/nawaljahmed/",
         "instagram":"https://instagram.com/nawaljarifahmed"
+    },
+    {
+        "name":"Shashidhar Pai B",
+        "college":"BMSCE",
+        "image":"images/shashidharPai.jpeg",
+        "github":"https://github.com/Shashidharpai",
+        "linkedin":"https://www.linkedin.com/in/shashidhar-pai-b-9651a0181",
+        "instagram":"https://instagram.com/shashidhar_pai_b"
     }
  ]
 

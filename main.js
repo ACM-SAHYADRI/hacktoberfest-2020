@@ -73,7 +73,7 @@ let contributers=[
       "image":"images/puneeth.jpeg",
       "github":"https://github.com/PuneethKshetty",
       "linkedin":"https://www.linkedin.com/in/puneeth-k-shetty-3b0b06173",
-      "instagram":"https://www.instagram.com/_mr.unique_dude/?hl=en",
+      "instagram":"https://www.instagram.com/_mr.unique_dude/?hl=en"
     },
     {
       "name":"Arkadyuti Bandyopadhyay",
@@ -121,7 +121,7 @@ let contributers=[
         "image":"images/Tripti.jpg",
         "github":"https://github.com/Tripti19-Rao",
         "linkedin":"https://www.linkedin.com/in/tripti-rao-a18834193",
-        "instagram":"https://www.instagram.com/miss_rao_1325",
+        "instagram":"https://www.instagram.com/miss_rao_1325"
     },
     {
         "name":"Vibha V",
@@ -129,7 +129,7 @@ let contributers=[
         "image":"images/vibha v.jpeg",
         "github":"https://github.com/vibha-v",
         "linkedin":"https://www.linkedin.com/in/vibha-v",
-        "instagram":"https://www.instagram.com/_.vib_haa._",
+        "instagram":"https://www.instagram.com/_.vib_haa._"
     },
     {
         "name":"Sukanya Shet S",
@@ -137,15 +137,15 @@ let contributers=[
         "image":"images/Sukanya.jpg",
         "github":"https://github.com/sukanyashet",
         "linkedin":"https://www.linkedin.com/in/sukanya-shet-s-465271181/",
-        "instagram":"https://www.instagram.com/su_kan_yaa",
+        "instagram":"https://www.instagram.com/su_kan_yaa"
      },
      {
-        "name":"Prakyath H N", 
-        "college":" SCEM", 
+        "name":"Prakyath H N",
+        "college":" SCEM",
         "image": "images/prakyath.jpeg",
-        "github":"https://github.com/Prakyath17", 
-        "linkedin":"https://www.linkedin.com/in/prakyath-h-n-9539b11b8", 
-        "instagram":"https://instagram.com/prakii_boy?igshid=1a00ogsbjhnre", 
+        "github":"https://github.com/Prakyath17",
+        "linkedin":"https://www.linkedin.com/in/prakyath-h-n-9539b11b8",
+        "instagram":"https://instagram.com/prakii_boy?igshid=1a00ogsbjhnre"
      },
      {
         "name":"Deeksha PK",
@@ -153,7 +153,7 @@ let contributers=[
         "image":"images/Deeksha PK.jpg",
         "github":"https://github.com/deekshapk09",
         "linkedin":"https://www.linkedin.com/in/deeksha-p-k-785632191",
-        "instagram":"https://www.instagram.com/deeksha_karmale",
+        "instagram":"https://www.instagram.com/deeksha_karmale"
      },
      {
         "name":"Akshay",
@@ -164,12 +164,12 @@ let contributers=[
         "instagram":""
      },
     {
-        "name":"Krishnanand Bhat", 
-        "college":"SCEM", 
+        "name":"Krishnanand Bhat",
+        "college":"SCEM",
         "image": "images/krishnanand bhat.jpg",
-        "github":"https://github.com/krishna55570", 
-        "linkedin":"https://www.linkedin.com/in/krishnanand-bhat-344198191/", 
-        "instagram":"https://www.instagram.com/_krish_na_5/", 
+        "github":"https://github.com/krishna55570",
+        "linkedin":"https://www.linkedin.com/in/krishnanand-bhat-344198191/",
+        "instagram":"https://www.instagram.com/_krish_na_5/"
      },
      {
         "name":"Krishna Shenoy S",
@@ -185,15 +185,47 @@ let contributers=[
         "image":"images/Brendan.jpg",
         "github":"https://github.com/BranYummy",
         "linkedin":"https://www.linkedin.com/in/brendan-yumnam-a60080164",
-        "instagram":"https://www.instagram.com/_branny_17_",
-    ,
+        "instagram":"https://www.instagram.com/_branny_17_"
+    },
+	  {
+        "name":"Nawal Ahmed",
+        "college":"Kennesaw State University",
+        "image":"images/NawalJAhmed.png",
+        "github":"https://github.com/NawalJAhmed",
+        "linkedin":"https://www.linkedin.com/in/nawaljahmed/",
+        "instagram":"https://instagram.com/nawaljarifahmed"
+    },
+    {
+        "name":"Shashidhar Pai B",
+        "college":"BMSCE",
+        "image":"images/shashidharPai.jpeg",
+        "github":"https://github.com/Shashidharpai",
+        "linkedin":"https://www.linkedin.com/in/shashidhar-pai-b-9651a0181",
+        "instagram":"https://instagram.com/shashidhar_pai_b"
+    },
+    {
+        "name":"Renan Miranda",
+        "college":"UNINOVE",
+        "image":"images/Renan_Miranda.jpg",
+        "github":"https://github.com/renanlmiranda",
+        "linkedin":"https://www.linkedin.com/in/renanlmiranda/",
+        "instagram":"https://www.instagram.com/renan_miraanda/"
+    },
+    {
+        "name":"Danish Shaikh",
+        "college":"KCCOE",
+        "image":"images/dan.jpeg",
+        "github":"https://github.com/danishsshaikh",
+        "linkedin":"https://www.linkedin.com/in/danishsshaikh/",
+        "instagram":""
+    },
     {   
         "name":"Neha.K",
         "college":"SCEM",
         "image":"images/Neha.jpg",
         "github":"https://github.com/nehakrish",
         "linkedin":"https://www.linkedin.com/in/neha-k-059619181",
-        "instagram":"https://instagram.com/__cherry_crazy?igshid=1kxjx0eb8ucoc",
+        "instagram":"https://instagram.com/__cherry_crazy?igshid=1kxjx0eb8ucoc"
     } 
  ]
 

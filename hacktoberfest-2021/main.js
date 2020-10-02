@@ -98,7 +98,15 @@ let contributers=[
       "github":"https://github.com/RishabhNaik",
       "linkedin":"https://www.linkedin.com/in/rishabh-naik-4391221ab/",
       "instagram":"https://www.instagram.com/rishabh._.naik/"
-    }
+    },
+   {
+      "name" : "Allan Joston Fernandes",
+      "college" : "SCEM",
+     "image" : "images/Allan Joston Fernandes.jpg",
+     "github" : "https://github.com/Allan2000-Git",
+     "linkedin" : "https://www.linkedin.com/in/allan-joston-fernandes-712593192/",
+     "instagram" : "https://www.instagram.com/the_legendary_sting_10/?hl=en"
+   }
 ]
 
 

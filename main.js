@@ -187,8 +187,7 @@ let contributers=[
         "linkedin":"https://www.linkedin.com/in/brendan-yumnam-a60080164",
         "instagram":"https://www.instagram.com/_branny_17_",
     },
-    {
-        {   
+    {   
         "name":"Neha.K",
         "college":"SCEM",
         "image":"images/Neha.jpg",

@@ -313,9 +313,16 @@ let contributers=[
         "image":"images/sanathraj.png",
         "github":"https://github.com/kar108",
         "instagram":"https://instagram.com/sanathraj",
-	"linkedin":""
-    }
-    
+	      "linkedin":""
+    },
+     {
+        "name":"keerthika",
+        "college":"SCEM",
+        "image":"images/KEE.jpg",
+        "github":"https://github.com/keerthika15K",
+        "linkedin":"https://www.linkedin.com/in/keerthika-kadri-9ba2b9186/",
+        "instagram":"https://www.instagram.com/kkadri7/"
+     }
  ]
 
 

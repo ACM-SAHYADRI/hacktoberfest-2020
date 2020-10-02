@@ -186,7 +186,16 @@ let contributers=[
         "github":"https://github.com/BranYummy",
         "linkedin":"https://www.linkedin.com/in/brendan-yumnam-a60080164",
         "instagram":"https://www.instagram.com/_branny_17_",
-    }
+    },
+    {
+        {   
+        "name":"Neha.K",
+        "college":"SCEM",
+        "image":"images/Neha.jpg",
+        "github":"https://github.com/nehakrish",
+        "linkedin":"https://www.linkedin.com/in/neha-k-059619181",
+        "instagram":"https://instagram.com/__cherry_crazy?igshid=1kxjx0eb8ucoc",
+    } 
  ]
 
 

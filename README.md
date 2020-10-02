@@ -13,7 +13,7 @@
 5. Commit and push
 6. Send a Pull Request
 
-After the Pull Request has been accepted your name will be displayed here [View](https://acm-sahyadri.github.io/-hacktoberfest-2020)
+After the Pull Request has been accepted your name will be displayed here [View](https://acm-sahyadri.github.io/hacktoberfest-2020)
 
 ## Steps to Contribute
 
@@ -50,7 +50,10 @@ let contributers=[
   "instagram" : "YOUR_INSTAGRAM_LINK"
 }
 ```
-4. Put your image with the name specified in "image" : "images/YOUR_NAME.[jpg/png]" into images folder
+4. Put your image with the name specified in "image" : "images/YOUR_NAME.[jpg/png]" into images folder.
+   ### Image must be in Square format
+   #### Preferably under 1 mb
+   
 
 5. Add your name in Contributers.txt
 

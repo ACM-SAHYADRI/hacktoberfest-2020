@@ -221,7 +221,7 @@ let contributers=[
     },
     {
         "name":"Priyanshu Bhattacharjee",
-        "College":"Greenland Convent School",
+        "college":"Greenland Convent School",
         "image":"images/Priyanshu.jpg",
         "github":"https://github.com/Priyanshu-CODERX",
         "linkedin":"https://www.linkedin.com/in/priyanshu-bhattacharjee/",

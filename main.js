@@ -243,14 +243,22 @@ let contributers=[
         "linkedin":"https://www.linkedin.com/in/priyanshu-bhattacharjee/",
         "instagram":"https://www.instagram.com/priyanshu_coderx/"
     },
-	{
-		"name":"Vital",
-		"college":"SCEM",
-		"image":"images/Default.jpg",
-		"github":"https://github.com/vviittaall123",
-		"linkedin":"https://www.linkedin.com/in/vittal-upadhyaya-259207193/",
-		"instagram":"https://www.instagram.com/vittal2823/"
-	}
+    {
+        "name":"Akshaj",
+        "college":"presidency university",
+        "image":"images/Akshaj.jpg",
+        "github":"https://github.com/akshaj65",
+        "instagram":"https://www.instagram.com/akshaj_0.o/",
+	      "linkedin":""
+    },
+	  {
+		  "name":"Vital",
+		  "college":"SCEM",
+		  "image":"images/Default.jpeg",
+		  "github":"https://github.com/vviittaall123",
+		  "linkedin":"https://www.linkedin.com/in/vittal-upadhyaya-259207193/",
+		  "instagram":"https://www.instagram.com/vittal2823/"
+	  }
  ]
 
 

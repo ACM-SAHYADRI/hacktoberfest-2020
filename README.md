@@ -52,6 +52,7 @@ let contributers=[
 ```
 4. Put your image with the name specified in "image" : "images/YOUR_NAME.[jpg/png]" into images folder.
    ### Image must be in Square format
+   #### Preferably under 1 mb
    
 
 5. Add your name in Contributers.txt

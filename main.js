@@ -99,6 +99,15 @@ let contributers=[
       "linkedin":"https://www.linkedin.com/in/rishabh-naik-4391221ab/",
       "instagram":"https://www.instagram.com/rishabh._.naik/"
     },
+
+    {
+      "name":"Rajath Prabhu M",
+      "college":"Shri Jayachamarajendra College of Engineering",
+      "image":"images/Rajath Prabhu.png",
+      "github":"https://github.com/codemonger221",
+      "linkedin":"www.linkedin.com/in/rajathprabhum",
+      "instagram":"https://www.instagram.com/rajath_mrp"
+    },
     {
         "name":"Shamitha.G",
         "college":"SCEM",

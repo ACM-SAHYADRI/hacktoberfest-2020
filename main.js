@@ -1,6 +1,6 @@
 //add your info at the end of this list
 let contributers=[
-    {
+      {
         "name":"Likhith RK",
         "college":"SCEM",
         "image":"images/likhith.jpg",
@@ -8,7 +8,6 @@ let contributers=[
         "linkedin":"https://linkedin.com/in/likhith-rk",
         "instagram":"https://instagram.com/lucifer_rk_"
     },
-
     {
         "name":"Shobith Mallya",
         "college":"SCEM",
@@ -322,12 +321,16 @@ let contributers=[
         "github":"https://github.com/keerthika15K",
         "linkedin":"https://www.linkedin.com/in/keerthika-kadri-9ba2b9186/",
         "instagram":"https://www.instagram.com/kkadri7/"
-     }
+     },
+    {
+        "name":"Mohammed Thohif",
+        "college":"SCEM",
+        "image":"images/thohif.jpg",
+        "github":"https://github.com/mohammedThohif",
+        "linkedin":"https://www.linkedin.com/in/mohammed-thohif-1598b7195/",
+        "instagram":"https://instagram.com/thwahif09"
+    }
  ]
-
-
-
-
 
 
 

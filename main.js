@@ -252,12 +252,12 @@ let contributers=[
 	      "linkedin":""
     },
     {
-	"name":"Vital",
-	"college":"SCEM",
-	"image":"images/Default.jpeg",
-	"github":"https://github.com/vviittaall123",
-	"linkedin":"https://www.linkedin.com/in/vittal-upadhyaya-259207193/",
-	 "instagram":"https://www.instagram.com/vittal2823/"
+        "name":"Vital",
+        "college":"SCEM",
+        "image":"images/Default.jpeg",
+        "github":"https://github.com/vviittaall123",
+        "linkedin":"https://www.linkedin.com/in/vittal-upadhyaya-259207193/",
+        "instagram":"https://www.instagram.com/vittal2823/"
     },
 	{
         "name":"M Jesta Kamath",

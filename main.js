@@ -262,7 +262,7 @@ let contributers=[
 	{
         "name":"M Jesta Kamath",
         "college":"BMS College of Engineering",
-        "image":"images/jesta.jpg",
+        "image":"images/jesta.png",
         "github":"https://github.com/mjestakamath",
         "linkedin":"https://www.linkedin.com/in/m-jesta-kamath-719192181/",
         "instagram":"https://www.instagram.com/__.1twinkle.__"

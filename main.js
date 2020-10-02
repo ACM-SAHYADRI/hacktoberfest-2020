@@ -190,7 +190,7 @@ let contributers=[
     {   
         "name":"Neha.K",
         "college":"SCEM",
-        "image":"images/Neha.jpg",
+        "image":"images/Neha.jpeg",
         "github":"https://github.com/nehakrish",
         "linkedin":"https://www.linkedin.com/in/neha-k-059619181",
         "instagram":"https://instagram.com/__cherry_crazy?igshid=1kxjx0eb8ucoc",

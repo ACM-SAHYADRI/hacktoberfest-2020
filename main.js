@@ -140,12 +140,12 @@ let contributers=[
         "instagram":"https://www.instagram.com/su_kan_yaa",
      },
      {
-        "name":"Prakyath H N", 
-        "college":" SCEM", 
+        "name":"Prakyath H N",
+        "college":" SCEM",
         "image": "images/prakyath.jpeg",
-        "github":"https://github.com/Prakyath17", 
-        "linkedin":"https://www.linkedin.com/in/prakyath-h-n-9539b11b8", 
-        "instagram":"https://instagram.com/prakii_boy?igshid=1a00ogsbjhnre", 
+        "github":"https://github.com/Prakyath17",
+        "linkedin":"https://www.linkedin.com/in/prakyath-h-n-9539b11b8",
+        "instagram":"https://instagram.com/prakii_boy?igshid=1a00ogsbjhnre",
      },
      {
         "name":"Deeksha PK",
@@ -164,12 +164,12 @@ let contributers=[
         "instagram":""
      },
     {
-        "name":"Krishnanand Bhat", 
-        "college":"SCEM", 
+        "name":"Krishnanand Bhat",
+        "college":"SCEM",
         "image": "images/krishnanand bhat.jpg",
-        "github":"https://github.com/krishna55570", 
-        "linkedin":"https://www.linkedin.com/in/krishnanand-bhat-344198191/", 
-        "instagram":"https://www.instagram.com/_krish_na_5/", 
+        "github":"https://github.com/krishna55570",
+        "linkedin":"https://www.linkedin.com/in/krishnanand-bhat-344198191/",
+        "instagram":"https://www.instagram.com/_krish_na_5/",
      },
      {
         "name":"Krishna Shenoy S",
@@ -187,14 +187,54 @@ let contributers=[
         "linkedin":"https://www.linkedin.com/in/brendan-yumnam-a60080164",
         "instagram":"https://www.instagram.com/_branny_17_",
     },
+	  {
+        "name":"Nawal Ahmed",
+        "college":"Kennesaw State University",
+        "image":"images/NawalJAhmed.png",
+        "github":"https://github.com/NawalJAhmed",
+        "linkedin":"https://www.linkedin.com/in/nawaljahmed/",
+        "instagram":"https://instagram.com/nawaljarifahmed"
+    },
     {
+        "name":"Shashidhar Pai B",
+        "college":"BMSCE",
+        "image":"images/shashidharPai.jpeg",
+        "github":"https://github.com/Shashidharpai",
+        "linkedin":"https://www.linkedin.com/in/shashidhar-pai-b-9651a0181",
+        "instagram":"https://instagram.com/shashidhar_pai_b"
+    },
+    {
+        "name":"Renan Miranda",
+        "college":"UNINOVE",
+        "image":"images/Renan_Miranda.jpg",
+        "github":"https://github.com/renanlmiranda",
+        "linkedin":"https://www.linkedin.com/in/renanlmiranda/",
+        "instagram":"https://www.instagram.com/renan_miraanda/"
+    },
+    {
+        "name":"Danish Shaikh",
+        "college":"KCCOE",
+        "image":"images/dan.jpeg",
+        "github":"https://github.com/danishsshaikh",
+        "linkedin":"https://www.linkedin.com/in/danishsshaikh/",
+        "instagram":""
+    },
+    {
+        "name":"M Vishwas Kamath", 
+        "college":"SCEM", 
+        "image": "images/vishwas.jpg",
+        "github":"https://github.com/vishwaskamath", 
+        "linkedin":"https://www.linkedin.com/in/mvishwaskamath/", 
+        "instagram":"https://www.instagram.com/vishwas_kamath/" 
+     },
+     {
         "name" : "Uttam Kini H",
-        "college" : "Tech Lead",
+        "college" : "SCEM",
         "image" : "images/Uttam.jpg",
         "github" : "https://github.com/UttamkiniH",
         "linkedin" : "https://www.linkedin.com/in/uttam-kini/",
         "instagram" : ""
-      }
+     }
  ]
 
 

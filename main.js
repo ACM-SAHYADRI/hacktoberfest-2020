@@ -299,6 +299,14 @@ let contributers=[
         "github":"https://github.com/jabbar86",
         "linkedin":"https://www.linkedin.com/in/jabbar-memon-4ab5347a/",
         "instagram":"https://www.instagram.com/jabbar.1701/"
+    },
+    {
+        "name":"Nireeksha M.N",
+        "college":"SCEM",
+        "image":"images/nireeksha.jpg",
+        "github":"https://github.com/nireekshamn",
+        "linkedin":"https://www.linkedin.com/in/nireeksha-mn/",
+        "instagram":"https://www.instagram.com/nireeksha.mn/",
     }
     
  ]

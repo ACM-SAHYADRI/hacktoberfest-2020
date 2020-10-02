@@ -116,6 +116,158 @@ let contributers=[
       "instagram" : "https://www.instagram.com/_ashikanaik_16"
     },
     {
+        "name":"Tripti Rao",
+        "college":"SCEM",
+        "image":"images/Tripti.jpg",
+        "github":"https://github.com/Tripti19-Rao",
+        "linkedin":"https://www.linkedin.com/in/tripti-rao-a18834193",
+        "instagram":"https://www.instagram.com/miss_rao_1325",
+    },
+    {
+        "name":"Vibha V",
+        "college":"SCEM",
+        "image":"images/vibha v.jpeg",
+        "github":"https://github.com/vibha-v",
+        "linkedin":"https://www.linkedin.com/in/vibha-v",
+        "instagram":"https://www.instagram.com/_.vib_haa._",
+    },
+    {
+        "name":"Sukanya Shet S",
+        "college":"Ramiah University of Applied Sciences",
+        "image":"images/Sukanya.jpg",
+        "github":"https://github.com/sukanyashet",
+        "linkedin":"https://www.linkedin.com/in/sukanya-shet-s-465271181/",
+        "instagram":"https://www.instagram.com/su_kan_yaa",
+     },
+     {
+        "name":"Prakyath H N",
+        "college":" SCEM",
+        "image": "images/prakyath.jpeg",
+        "github":"https://github.com/Prakyath17",
+        "linkedin":"https://www.linkedin.com/in/prakyath-h-n-9539b11b8",
+        "instagram":"https://instagram.com/prakii_boy?igshid=1a00ogsbjhnre",
+     },
+     {
+        "name":"Deeksha PK",
+        "college":"SCEM",
+        "image":"images/Deeksha PK.jpg",
+        "github":"https://github.com/deekshapk09",
+        "linkedin":"https://www.linkedin.com/in/deeksha-p-k-785632191",
+        "instagram":"https://www.instagram.com/deeksha_karmale",
+     },
+     {
+        "name":"Akshay",
+        "college":"MSIT",
+        "image":"images/Akshay.jpeg",
+        "github":"https://github.com/tvibhu12",
+        "linkedin":"https://www.linkedin.com/in/akshaytiwari12",
+        "instagram":""
+     },
+    {
+        "name":"Krishnanand Bhat",
+        "college":"SCEM",
+        "image": "images/krishnanand bhat.jpg",
+        "github":"https://github.com/krishna55570",
+        "linkedin":"https://www.linkedin.com/in/krishnanand-bhat-344198191/",
+        "instagram":"https://www.instagram.com/_krish_na_5/",
+     },
+     {
+        "name":"Krishna Shenoy S",
+        "college":"UVCE",
+        "image":"images/krishna.jpg",
+        "github":"https://github.com/krishnashenoy123",
+        "linkedin":"https://www.linkedin.com/in/krishna-shenoy-s-9202151b8/",
+        "instagram":"https://www.instagram.com/kitta_shenai"
+     },
+    {
+        "name":"Brendan Yumnam",
+        "college":"SCEM",
+        "image":"images/Brendan.jpg",
+        "github":"https://github.com/BranYummy",
+        "linkedin":"https://www.linkedin.com/in/brendan-yumnam-a60080164",
+        "instagram":"https://www.instagram.com/_branny_17_",
+    },
+	  {
+        "name":"Nawal Ahmed",
+        "college":"Kennesaw State University",
+        "image":"images/NawalJAhmed.png",
+        "github":"https://github.com/NawalJAhmed",
+        "linkedin":"https://www.linkedin.com/in/nawaljahmed/",
+        "instagram":"https://instagram.com/nawaljarifahmed"
+    },
+    {
+        "name":"Shashidhar Pai B",
+        "college":"BMSCE",
+        "image":"images/shashidharPai.jpeg",
+        "github":"https://github.com/Shashidharpai",
+        "linkedin":"https://www.linkedin.com/in/shashidhar-pai-b-9651a0181",
+        "instagram":"https://instagram.com/shashidhar_pai_b"
+    },
+    {
+        "name":"Renan Miranda",
+        "college":"UNINOVE",
+        "image":"images/Renan_Miranda.jpg",
+        "github":"https://github.com/renanlmiranda",
+        "linkedin":"https://www.linkedin.com/in/renanlmiranda/",
+        "instagram":"https://www.instagram.com/renan_miraanda/"
+    },
+    {
+        "name":"Danish Shaikh",
+        "college":"KCCOE",
+        "image":"images/dan.jpeg",
+        "github":"https://github.com/danishsshaikh",
+        "linkedin":"https://www.linkedin.com/in/danishsshaikh/",
+        "instagram":""
+    },
+    {
+        "name":"M Vishwas Kamath", 
+        "college":"SCEM", 
+        "image": "images/vishwas.jpg",
+        "github":"https://github.com/vishwaskamath", 
+        "linkedin":"https://www.linkedin.com/in/mvishwaskamath/", 
+        "instagram":"https://www.instagram.com/vishwas_kamath/" 
+     },
+     {
+        "name" : "Uttam Kini H",
+        "college" : "SCEM",
+        "image" : "images/Uttam.jpg",
+        "github" : "https://github.com/UttamkiniH",
+        "linkedin" : "https://www.linkedin.com/in/uttam-kini/",
+        "instagram" : ""
+     },
+    {
+        "name":"Priyanshu Bhattacharjee",
+        "college":"Greenland Convent School",
+        "image":"images/Priyanshu.jpg",
+        "github":"https://github.com/Priyanshu-CODERX",
+        "linkedin":"https://www.linkedin.com/in/priyanshu-bhattacharjee/",
+        "instagram":"https://www.instagram.com/priyanshu_coderx/"
+    },
+    {
+        "name":"Akshaj",
+        "college":"presidency university",
+        "image":"images/Akshaj.jpg",
+        "github":"https://github.com/akshaj65",
+        "instagram":"https://www.instagram.com/akshaj_0.o/",
+	      "linkedin":""
+    },
+    {
+        "name":"Vital",
+        "college":"SCEM",
+        "image":"images/Default.jpeg",
+        "github":"https://github.com/vviittaall123",
+        "linkedin":"https://www.linkedin.com/in/vittal-upadhyaya-259207193/",
+        "instagram":"https://www.instagram.com/vittal2823/"
+    },
+	  {
+        "name":"M Jesta Kamath",
+        "college":"BMS College of Engineering",
+        "image":"images/jesta.PNG",
+        "github":"https://github.com/mjestakamath",
+        "linkedin":"https://www.linkedin.com/in/m-jesta-kamath-719192181/",
+        "instagram":"https://www.instagram.com/__.1twinkle.__"
+	  },
+    {
         "name" : "Mahima M",
         "college" : "SCEM",
         "image" : "images/Mahi.jpg",
@@ -123,7 +275,7 @@ let contributers=[
         "linkedin" : "https://www.linkedin.com/in/mahima-m-706288190",
         "instagram": "https://www.instagram.com/mahi_25"
     }
-]
+ ]
 
 
 
@@ -140,12 +292,13 @@ let contributers=[
 //******************************************DO NOT CHANGE THE BELOW LINES******************************************
 //_________________________________________________________________________________________________________________
 
+let defaultimage="images/Default.jpeg";
+
 function getPerson(person){
     let divi=document.createElement('div');
     divi.className="col-md-3 col-sm-6 col-xs-12 wow fadeIn";
     divi.setAttribute("data-wow-offset","50");
-    divi.setAttribute("data-wow-delay","1.3s");
-    divi.innerHTML= '<div class="team-wrapper"><img src="'+person.image+'" class="img-responsive" alt="team img 1"><div class="team-des"><h4>'+person.name+'</h4><span>'+person.college+'</span><ul class="social-icon"><li><a href="'+person.linkedin+'" target="_blank" target="_blank" class="fa fa-linkedin"></a></li><li><a href="'+person.github+'" target="_blank" class="fa fa-github"></a></li><li><a href="'+person.instagram+'" target="_blank"  class="fa fa-instagram"></a></li></ul></div></div>';
+    divi.innerHTML= '<div class="team-wrapper"><img src="'+person.image+'" class="img-responsive" onerror="this.src=\''+defaultimage+'\'" alt="User_image"><div class="team-des"><h4>'+person.name+'</h4><span>'+person.college+'</span><ul class="social-icon"><li><a href="'+person.linkedin+'" target="_blank" target="_blank" class="fa fa-linkedin"></a></li><li><a href="'+person.github+'" target="_blank" class="fa fa-github"></a></li><li><a href="'+person.instagram+'" target="_blank"  class="fa fa-instagram"></a></li></ul></div></div>';
     return divi;
 }
 

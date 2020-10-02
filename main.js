@@ -122,7 +122,7 @@ let contributers=[
         "github" : "https://github.com/mahi252001",
         "linkedin" : "https://www.linkedin.com/in/mahima-m-706288190",
         "instagram": "https://www.instagram.com/mahi_25"
-      }
+    }
 ]
 
 

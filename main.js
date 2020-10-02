@@ -298,6 +298,14 @@ let contributers=[
         "github":"https://github.com/nireekshamn",
         "linkedin":"https://www.linkedin.com/in/nireeksha-mn/",
         "instagram":"https://www.instagram.com/nireeksha.mn/",
+    },
+    {
+      "name":"Rajath Prabhu M",
+      "college":"Shri Jayachamarajendra College of Engineering",
+      "image":"images/Rajath.png",
+      "github":"https://github.com/codemonger221",
+      "linkedin":"www.linkedin.com/in/rajathprabhum",
+      "instagram":"https://www.instagram.com/rajath_mrp"
     }
     
  ]

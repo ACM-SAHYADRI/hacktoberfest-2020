@@ -274,7 +274,15 @@ let contributers=[
         "github" : "https://github.com/mahi252001",
         "linkedin" : "https://www.linkedin.com/in/mahima-m-706288190",
         "instagram": "https://www.instagram.com/mahi_25"
-    }
+    },
+	  {
+        "name":"Vikram P S",
+        "college":"SCEM",
+        "image":"images/vikram p s.PNG",
+        "github":"https://github.com/vikramps12",
+        "linkedin":"https://www.linkedin.com/in/vikram-p-s-b325991aa/",
+        "instagram":"https://www.instagram.com/psvikram01/"
+	  }
  ]
 
 

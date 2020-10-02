@@ -1,4 +1,12 @@
 let contributers=[
+      {
+        "name":"Likhith RK",
+        "college":"SCEM",
+        "image":"images/likhith.jpg",
+        "github":"https://github.com/luciferRK",
+        "linkedin":"https://linkedin.com/in/likhith-rk",
+        "instagram":"https://instagram.com/lucifer_rk_"
+    },
     {
         "name":"Mohammed Thohif",
         "college":"SCEM",

@@ -1,11 +1,11 @@
 let contributers=[
     {
-        "name":"Likhith RK",
+        "name":"Mohammed Thohif",
         "college":"SCEM",
-        "image":"images/likhith.jpg",
-        "github":"https://github.com/luciferRK",
-        "linkedin":"https://linkedin.com/in/likhith-rk",
-        "instagram":"https://instagram.com/lucifer_rk_"
+        "image":"images/thohif.jpg",
+        "github":"https://github.com/mohammedThohif",
+        "linkedin":"https://www.linkedin.com/in/mohammed-thohif-1598b7195/",
+        "instagram":"https://instagram.com/thwahif09"
     },
 ]
 

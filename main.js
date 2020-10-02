@@ -140,12 +140,12 @@ let contributers=[
         "instagram":"https://www.instagram.com/su_kan_yaa",
      },
      {
-        "name":"Prakyath H N", 
-        "college":" SCEM", 
+        "name":"Prakyath H N",
+        "college":" SCEM",
         "image": "images/prakyath.jpeg",
-        "github":"https://github.com/Prakyath17", 
-        "linkedin":"https://www.linkedin.com/in/prakyath-h-n-9539b11b8", 
-        "instagram":"https://instagram.com/prakii_boy?igshid=1a00ogsbjhnre", 
+        "github":"https://github.com/Prakyath17",
+        "linkedin":"https://www.linkedin.com/in/prakyath-h-n-9539b11b8",
+        "instagram":"https://instagram.com/prakii_boy?igshid=1a00ogsbjhnre",
      },
      {
         "name":"Deeksha PK",
@@ -164,12 +164,12 @@ let contributers=[
         "instagram":""
      },
     {
-        "name":"Krishnanand Bhat", 
-        "college":"SCEM", 
+        "name":"Krishnanand Bhat",
+        "college":"SCEM",
         "image": "images/krishnanand bhat.jpg",
-        "github":"https://github.com/krishna55570", 
-        "linkedin":"https://www.linkedin.com/in/krishnanand-bhat-344198191/", 
-        "instagram":"https://www.instagram.com/_krish_na_5/", 
+        "github":"https://github.com/krishna55570",
+        "linkedin":"https://www.linkedin.com/in/krishnanand-bhat-344198191/",
+        "instagram":"https://www.instagram.com/_krish_na_5/",
      },
      {
         "name":"Krishna Shenoy S",
@@ -187,13 +187,29 @@ let contributers=[
         "linkedin":"https://www.linkedin.com/in/brendan-yumnam-a60080164",
         "instagram":"https://www.instagram.com/_branny_17_",
     },
+	{
+        "name":"Nawal Ahmed",
+        "college":"Kennesaw State University",
+        "image":"images/NawalJAhmed.png",
+        "github":"https://github.com/NawalJAhmed",
+        "linkedin":"https://www.linkedin.com/in/nawaljahmed/",
+        "instagram":"https://instagram.com/nawaljarifahmed"
+    },
+    {
+        "name":"Shashidhar Pai B",
+        "college":"BMSCE",
+        "image":"images/shashidharPai.jpeg",
+        "github":"https://github.com/Shashidharpai",
+        "linkedin":"https://www.linkedin.com/in/shashidhar-pai-b-9651a0181",
+        "instagram":"https://instagram.com/shashidhar_pai_b"
+    },
     {
         "name":"Renan Miranda",
         "college":"UNINOVE",
         "image":"images/Renan_Miranda.jpg",
         "github":"https://github.com/renanlmiranda",
         "linkedin":"https://www.linkedin.com/in/renanlmiranda/",
-        "instagram":"https://www.instagram.com/renan_miraanda/", 
+        "instagram":"https://www.instagram.com/renan_miraanda/"
     }
  ]
 
@@ -212,12 +228,14 @@ let contributers=[
 //******************************************DO NOT CHANGE THE BELOW LINES******************************************
 //_________________________________________________________________________________________________________________
 
+let defaultimage="images/Default.jpeg";
+
 function getPerson(person){
     let divi=document.createElement('div');
     divi.className="col-md-3 col-sm-6 col-xs-12 wow fadeIn";
     divi.setAttribute("data-wow-offset","50");
     divi.setAttribute("data-wow-delay","1.3s");
-    divi.innerHTML= '<div class="team-wrapper"><img src="'+person.image+'" class="img-responsive" onerror="this.onerror=null; this.src="images/Default.jpeg"" alt="User_image"><div class="team-des"><h4>'+person.name+'</h4><span>'+person.college+'</span><ul class="social-icon"><li><a href="'+person.linkedin+'" target="_blank" target="_blank" class="fa fa-linkedin"></a></li><li><a href="'+person.github+'" target="_blank" class="fa fa-github"></a></li><li><a href="'+person.instagram+'" target="_blank"  class="fa fa-instagram"></a></li></ul></div></div>';
+    divi.innerHTML= '<div class="team-wrapper"><img src="'+person.image+'" class="img-responsive" onerror="this.onerror=null; this.src='+defaultimage+'" alt="User_image"><div class="team-des"><h4>'+person.name+'</h4><span>'+person.college+'</span><ul class="social-icon"><li><a href="'+person.linkedin+'" target="_blank" target="_blank" class="fa fa-linkedin"></a></li><li><a href="'+person.github+'" target="_blank" class="fa fa-github"></a></li><li><a href="'+person.instagram+'" target="_blank"  class="fa fa-instagram"></a></li></ul></div></div>';
     return divi;
 }
 

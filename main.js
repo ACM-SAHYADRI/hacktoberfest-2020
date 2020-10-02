@@ -242,7 +242,15 @@ let contributers=[
         "github":"https://github.com/Priyanshu-CODERX",
         "linkedin":"https://www.linkedin.com/in/priyanshu-bhattacharjee/",
         "instagram":"https://www.instagram.com/priyanshu_coderx/"
-    }
+    },
+	{
+		"name":"Vital",
+		"college":"SCEM",
+		"image":"images/Default.jpg",
+		"github":"https://github.com/vviittaall123",
+		"linkedin":"https://www.linkedin.com/in/vittal-upadhyaya-259207193/",
+		"instagram":"https://www.instagram.com/vittal2823/"
+	}
  ]
 
 

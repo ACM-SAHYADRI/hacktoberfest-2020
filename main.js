@@ -234,7 +234,15 @@ let contributers=[
         "github" : "https://github.com/UttamkiniH",
         "linkedin" : "https://www.linkedin.com/in/uttam-kini/",
         "instagram" : ""
-     }
+     },
+    {
+        "name":"Priyanshu Bhattacharjee",
+        "college":"Greenland Convent School",
+        "image":"images/Priyanshu.jpg",
+        "github":"https://github.com/Priyanshu-CODERX",
+        "linkedin":"https://www.linkedin.com/in/priyanshu-bhattacharjee/",
+        "instagram":"https://www.instagram.com/priyanshu_coderx/"
+    }
  ]
 
 

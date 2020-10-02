@@ -220,6 +220,22 @@ let contributers=[
         "instagram":""
     },
     {
+        "name":"M Vishwas Kamath", 
+        "college":"SCEM", 
+        "image": "images/vishwas.jpg",
+        "github":"https://github.com/vishwaskamath", 
+        "linkedin":"https://www.linkedin.com/in/mvishwaskamath/", 
+        "instagram":"https://www.instagram.com/vishwas_kamath/" 
+     },
+     {
+        "name" : "Uttam Kini H",
+        "college" : "SCEM",
+        "image" : "images/Uttam.jpg",
+        "github" : "https://github.com/UttamkiniH",
+        "linkedin" : "https://www.linkedin.com/in/uttam-kini/",
+        "instagram" : ""
+     },
+    {
         "name":"Priyanshu Bhattacharjee",
         "college":"Greenland Convent School",
         "image":"images/Priyanshu.jpg",
@@ -227,7 +243,6 @@ let contributers=[
         "linkedin":"https://www.linkedin.com/in/priyanshu-bhattacharjee/",
         "instagram":"https://www.instagram.com/priyanshu_coderx/"
     }
-	
  ]
 
 

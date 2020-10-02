@@ -202,6 +202,14 @@ let contributers=[
         "github":"https://github.com/Shashidharpai",
         "linkedin":"https://www.linkedin.com/in/shashidhar-pai-b-9651a0181",
         "instagram":"https://instagram.com/shashidhar_pai_b"
+    },
+    {
+        "name":"Renan Miranda",
+        "college":"UNINOVE",
+        "image":"images/Renan_Miranda.jpg",
+        "github":"https://github.com/renanlmiranda",
+        "linkedin":"https://www.linkedin.com/in/renanlmiranda/",
+        "instagram":"https://www.instagram.com/renan_miraanda/"
     }
  ]
 

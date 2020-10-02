@@ -306,6 +306,14 @@ let contributers=[
       "github":"https://github.com/codemonger221",
       "linkedin":"www.linkedin.com/in/rajathprabhum",
       "instagram":"https://www.instagram.com/rajath_mrp"
+    },
+    {
+        "name":"sanathraj",
+        "college":"SCEM",
+        "image":"images/sanathraj.png",
+        "github":"https://github.com/kar108",
+        "instagram":"https://instagram.com/sanathraj",
+	"linkedin":""
     }
     
  ]

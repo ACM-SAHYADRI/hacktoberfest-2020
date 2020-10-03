@@ -329,7 +329,16 @@ let contributers=[
         "github":"https://github.com/mohammedThohif",
         "linkedin":"https://www.linkedin.com/in/mohammed-thohif-1598b7195/",
         "instagram":"https://instagram.com/thwahif09"
-    }
+    },
+	{
+		"name":"Dhanush R",
+		"college":"SCEM",
+		"image":"images/Dhanush R.jpeg",
+		"github":"https://github.com/Dhanushadoor",
+		"linkedin":"https://www.linkedin.com/in/dhanush-r-b6b817177",
+		"instagram":"https://www.instagram.com/dhanush_adoor/"
+	}
+
  ]
 
 

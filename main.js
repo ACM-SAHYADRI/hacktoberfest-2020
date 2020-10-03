@@ -16,6 +16,14 @@ let contributers=[
         "linkedin":"https://www.linkedin.com/in/shobithmallya/",
         "instagram":"https://instagram.com/shobithmallya"
     },
+      {
+        "name":"Anupam Raj ",
+        "college":"SCEM",
+        "image":"images/Anupam.png",
+        "github":"https://github.com/MrPam-pam",
+        "linkedin":"https://www.linkedin.com/in/anupam-raj-49a335175/",
+        "instagram":"https://www.instagram.com/anupamraj_k/"
+    },
 ]
 
 

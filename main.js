@@ -337,6 +337,14 @@ let contributers=[
 		"github":"https://github.com/Dhanushadoor",
 		"linkedin":"https://www.linkedin.com/in/dhanush-r-b6b817177",
 		"instagram":"https://www.instagram.com/dhanush_adoor/"
+    },
+	{
+		"name":"Sauhard N.K.",
+		"college":"SCEM",
+		"image":"images/Sauhard.jpeg",
+		"github":"https://github.com/SNK333",
+		"linkedin":"https://www.linkedin.com/in/sauhard-nk-9693a8195",
+		"instagram":"https://www.instagram.com/sauhard_n_k/"
 	}
 
  ]

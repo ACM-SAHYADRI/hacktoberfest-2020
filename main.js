@@ -377,7 +377,15 @@ let contributers=[
         "github":"https://github.com/rushelmac",
         "linkedin":"https://www.linkedin.com/in/rushikesh-shelke-09036616a",
         "instagram":"https://www.instagram.com/rushelmac"
-    }
+    },
+    {
+        "name":"Dhanushree S",
+        "college":"SJEC",
+        "image":"images/DhanushreeS.jpg",
+        "github":"https://github.com/Dhanushree-S",
+        "linkedin":"https://www.linkedin.com/in/dhanushree-s",
+        "instagram":"https://www.instagram.com/dhanu_shree_270"
+    }	
  ];
 
 

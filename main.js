@@ -360,7 +360,16 @@ let contributers=[
         "github":"https://github.com/nehakrish",
         "linkedin":"https://www.linkedin.com/in/neha-k-059619181",
         "instagram":"https://instagram.com/__cherry_crazy?igshid=1kxjx0eb8ucoc",
-    } 
+    } ,
+
+    {
+        "name":"Anirudh S Nayak",
+        "college":"SCEM",
+        "image":"images/Ani.jpg",
+        "github":"https://github.com/rudhn2001",
+        "linkedin":"",
+        "instagram":"https://instagram.com/rudh_n2s"
+    }
 
  ]
 

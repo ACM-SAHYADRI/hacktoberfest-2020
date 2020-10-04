@@ -119,7 +119,7 @@ let contributers=[
     {
         "name":"Anirudh S Nayak",
         "college":"SCEM",
-        "image":"images/Anirudh.jpg",
+        "image":"images/Ani.jpg",
         "github":"https://github.com/rudhn2001",
      
         "instagram":"https://instagram.com/rudh_n2s"

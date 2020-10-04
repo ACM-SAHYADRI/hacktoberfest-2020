@@ -114,9 +114,16 @@ let contributers=[
       "github" : "https://github.com/ashikanaik",
       "linkedin" : "www.linkedin.com/in/ashika-naik-872559183",
       "instagram" : "https://www.instagram.com/_ashikanaik_16"
-    }
-]
+    },
 
+    {
+        "name":"Anirudh S Nayak",
+        "college":"SCEM",
+        "image":"images/Ani.jpg",
+        "github":"https://github.com/rudhn2001",
+     
+        "instagram":"https://instagram.com/rudh_n2s"
+    },
 
 
 

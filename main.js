@@ -321,6 +321,14 @@ let contributers=[
         "linkedin":"https://www.linkedin.com/in/keerthika-kadri-9ba2b9186/",
         "instagram":"https://www.instagram.com/kkadri7/"
      },
+     {
+        "name":"Rushikesh R Shelke",
+        "college":"WCE",
+        "image":"images/RushikeshS.jpg",
+        "github":"https://github.com/rushelmac",
+        "linkedin":"https://www.linkedin.com/in/rushikesh-shelke-09036616a",
+        "instagram":"https://www.instagram.com/rushelmac"
+     },
     {
         "name":"Mohammed Thohif",
         "college":"SCEM",
@@ -371,7 +379,7 @@ let contributers=[
         "instagram":"https://instagram.com/rudh_n2s"
     }
 
- ]
+ ];
 
 
 

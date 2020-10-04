@@ -377,6 +377,15 @@ let contributers=[
         "github":"https://github.com/rushelmac",
         "linkedin":"https://www.linkedin.com/in/rushikesh-shelke-09036616a",
         "instagram":"https://www.instagram.com/rushelmac"
+    },
+
+    {
+        "name":"Luma Liana",
+        "college":"LUMI",
+        "image":"images/LumaLiana.png",
+        "github":"https://github.com/LumaLiana",
+        "linkedin":"https://www.linkedin.com/in/luma-bueno-556531157/",
+        "instagram":"https://instagram.com/luma_liana"
     }
  ];
 

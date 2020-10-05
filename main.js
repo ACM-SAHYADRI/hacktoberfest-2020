@@ -385,6 +385,14 @@ let contributers=[
         "github":"https://github.com/luanaboune",
         "linkedin":"https://www.linkedin.com/in/luana-bueno-3a4a445b",
         "instagram":"https://www.instagram.com/luanabueno.art/"
+    },
+    {
+        "name":"Luma Liana",
+        "college":"LUMI",
+        "image":"images/LumaLiana.png",
+        "github":"https://github.com/LumaLiana",
+        "linkedin":"https://www.linkedin.com/in/luma-bueno-556531157/",
+        "instagram":"https://instagram.com/luma_liana"
     }
  ];
 

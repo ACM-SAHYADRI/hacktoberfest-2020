@@ -393,6 +393,14 @@ let contributers=[
         "github":"https://github.com/LumaLiana",
         "linkedin":"https://www.linkedin.com/in/luma-bueno-556531157/",
         "instagram":"https://instagram.com/luma_liana"
+    },
+    {
+        "name":"SREENIDHI",
+        "college":"Sahyadri",
+        "image":"images/sreenidhi.png",
+        "github":"https://github.com/Sree27-Shanger",
+        "linkedin":"https://www.linkedin.com/in/sree-nidhi-9a6912187/",
+        "instagram":"https://www.instagram.com/sreeunnizz"
     }
  ];
 

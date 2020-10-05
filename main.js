@@ -393,6 +393,14 @@ let contributers=[
         "github":"https://github.com/LumaLiana",
         "linkedin":"https://www.linkedin.com/in/luma-bueno-556531157/",
         "instagram":"https://instagram.com/luma_liana"
+    },
+	{
+        "name":"sree",
+        "college":"scem",
+        "image":"images/dfs.png",
+        "github":"",
+        "linkedin":"",
+        "instagram":""
     }
  ];
 

@@ -397,7 +397,7 @@ let contributers=[
     {
         "name":"SREENIDHI",
         "college":"Sahyadri",
-        "image":"images/sreenidhi.png",
+        "image":"images/DSC_0718d.jpg",
         "github":"https://github.com/Sree27-Shanger",
         "linkedin":"https://www.linkedin.com/in/sree-nidhi-9a6912187/",
         "instagram":"https://www.instagram.com/sreeunnizz"

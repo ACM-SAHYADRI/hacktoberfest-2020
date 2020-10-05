@@ -378,7 +378,14 @@ let contributers=[
         "linkedin":"https://www.linkedin.com/in/rushikesh-shelke-09036616a",
         "instagram":"https://www.instagram.com/rushelmac"
     },
-
+    {
+        "name":"Luana Bueno",
+        "college":"Anhembi Morumbi",
+        "image":"images/LuanaBueno.png",
+        "github":"https://github.com/luanaboune",
+        "linkedin":"https://www.linkedin.com/in/luana-bueno-3a4a445b",
+        "instagram":"https://www.instagram.com/luanabueno.art/"
+    },
     {
         "name":"Luma Liana",
         "college":"LUMI",

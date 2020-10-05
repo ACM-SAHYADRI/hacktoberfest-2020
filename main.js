@@ -397,7 +397,7 @@ let contributers=[
 	{
         "name":"sree",
         "college":"scem",
-        "image":"images/dfs.png",
+        "image":"images/dfs.jpg",
         "github":"",
         "linkedin":"",
         "instagram":""

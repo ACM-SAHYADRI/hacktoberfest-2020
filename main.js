@@ -16,7 +16,6 @@ let contributers=[
         "linkedin":"https://www.linkedin.com/in/shobithmallya/",
         "instagram":"https://instagram.com/shobithmallya"
     },
-
     {
         "name":"K Samarth N Kamath",
         "college":"SCEM",
@@ -329,9 +328,73 @@ let contributers=[
         "github":"https://github.com/mohammedThohif",
         "linkedin":"https://www.linkedin.com/in/mohammed-thohif-1598b7195/",
         "instagram":"https://instagram.com/thwahif09"
-    }
- ]
+    },
+	{
+		"name":"Dhanush R",
+		"college":"SCEM",
+		"image":"images/Dhanush R.jpeg",
+		"github":"https://github.com/Dhanushadoor",
+		"linkedin":"https://www.linkedin.com/in/dhanush-r-b6b817177",
+		"instagram":"https://www.instagram.com/dhanush_adoor/"
+    },
+	{
+		"name":"Sauhard N.K.",
+		"college":"SCEM",
+		"image":"images/Sauhard.jpeg",
+		"github":"https://github.com/SNK333",
+		"linkedin":"https://www.linkedin.com/in/sauhard-nk-9693a8195",
+		"instagram":"https://www.instagram.com/sauhard_n_k/"
+	},
+  {
+        "name":"Anupam Raj ",
+        "college":"SCEM",
+        "image":"images/Anupam.png",
+        "github":"https://github.com/MrPam-pam",
+        "linkedin":"https://www.linkedin.com/in/anupam-raj-49a335175/",
+        "instagram":"https://www.instagram.com/anupamraj_k/"
+    },
+    {   
+        "name":"Neha.K",
+        "college":"SCEM",
+        "image":"images/Neha.jpeg",
+        "github":"https://github.com/nehakrish",
+        "linkedin":"https://www.linkedin.com/in/neha-k-059619181",
+        "instagram":"https://instagram.com/__cherry_crazy?igshid=1kxjx0eb8ucoc",
+    } ,
 
+    {
+        "name":"Anirudh S Nayak",
+        "college":"SCEM",
+        "image":"images/Ani.jpg",
+        "github":"https://github.com/rudhn2001",
+        "linkedin":"",
+        "instagram":"https://instagram.com/rudh_n2s"
+    },
+    {
+        "name":"Rushikesh R Shelke",
+        "college":"WCE",
+        "image":"images/RushikeshS.jpg",
+        "github":"https://github.com/rushelmac",
+        "linkedin":"https://www.linkedin.com/in/rushikesh-shelke-09036616a",
+        "instagram":"https://www.instagram.com/rushelmac"
+    },
+    {
+        "name":"Luana Bueno",
+        "college":"Anhembi Morumbi",
+        "image":"images/LuanaBueno.png",
+        "github":"https://github.com/luanaboune",
+        "linkedin":"https://www.linkedin.com/in/luana-bueno-3a4a445b",
+        "instagram":"https://www.instagram.com/luanabueno.art/"
+    },
+    {
+        "name":"Luma Liana",
+        "college":"LUMI",
+        "image":"images/LumaLiana.png",
+        "github":"https://github.com/LumaLiana",
+        "linkedin":"https://www.linkedin.com/in/luma-bueno-556531157/",
+        "instagram":"https://instagram.com/luma_liana"
+    }
+ ];
 
 
 

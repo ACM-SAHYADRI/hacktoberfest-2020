@@ -402,6 +402,14 @@ let contributers=[
         "linkedin":"https://www.linkedin.com/in/dhanushree-s",
         "instagram":"https://instagram.com/dhanu_shree_270"
     },
+    {
+        "name":"Poornima",
+        "college":"SCEM",
+        "image":"images/Poornima.JPG",
+        "github":"https://github.com/POORNIMAMOGAVEERA",
+        "linkedin":"https://www.linkedin.com/in/poornima-mogaveera-195745195/",
+        "instagram":"https://www.instagram.com/__mendon__/?hl=en"
+    },
      {
         "name":"Riandy Candra Winahyu",
         "college":"Universitas Singaperbangsa Karawang",

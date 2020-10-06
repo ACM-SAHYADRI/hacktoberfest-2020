@@ -409,6 +409,14 @@ let contributers=[
         "github":"https://github.com/riandycandra",
         "linkedin":"https://www.linkedin.com/in/riandycandra",
         "instagram":"https://instagram.com/riandycandraa"
+    } 
+	 {
+        "name":"Sanajana raj petkar",
+        "college":"mgm college",
+        "image":"images/sanajana.jpg",
+        "github":"https://github.com/sanjpixel",
+        "linkedin":"https://www.linkedin.com/in/sanjana",
+        "instagram":"https://instagram.com/sanjana"
     }   
  ];
 

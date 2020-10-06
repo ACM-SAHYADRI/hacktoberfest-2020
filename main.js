@@ -401,7 +401,15 @@ let contributers=[
         "github":"https://github.com/Dhanushree-S",
         "linkedin":"https://www.linkedin.com/in/dhanushree-s",
         "instagram":"https://instagram.com/dhanu_shree_270"
-    }	
+    },
+     {
+        "name":"Riandy Candra Winahyu",
+        "college":"Universitas Singaperbangsa Karawang",
+        "image":"images/riandycandra.jpg",
+        "github":"https://github.com/riandycandra",
+        "linkedin":"https://www.linkedin.com/in/riandycandra",
+        "instagram":"https://instagram.com/riandycandraa"
+    }   
  ];
 
 

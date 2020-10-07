@@ -393,7 +393,23 @@ let contributers=[
         "github":"https://github.com/LumaLiana",
         "linkedin":"https://www.linkedin.com/in/luma-bueno-556531157/",
         "instagram":"https://instagram.com/luma_liana"
-    }
+    },
+     {
+        "name":"Dhanushree S",
+        "college":"SJEC",
+        "image":"images/DhanushreeS.png",
+        "github":"https://github.com/Dhanushree-S",
+        "linkedin":"https://www.linkedin.com/in/dhanushree-s",
+        "instagram":"https://instagram.com/dhanu_shree_270"
+    },
+     {
+        "name":"Riandy Candra Winahyu",
+        "college":"Universitas Singaperbangsa Karawang",
+        "image":"images/riandycandra.jpg",
+        "github":"https://github.com/riandycandra",
+        "linkedin":"https://www.linkedin.com/in/riandycandra",
+        "instagram":"https://instagram.com/riandycandraa"
+    }   
  ];
 
 

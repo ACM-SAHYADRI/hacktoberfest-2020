@@ -409,7 +409,15 @@ let contributers=[
         "github":"https://github.com/riandycandra",
         "linkedin":"https://www.linkedin.com/in/riandycandra",
         "instagram":"https://instagram.com/riandycandraa"
-    }   
+    },
+    {
+        "name":"Poornima",
+        "college":"SCEM",
+        "image":"images/Poornima.JPG",
+        "github":"https://github.com/POORNIMAMOGAVEERA",
+        "linkedin":"https://www.linkedin.com/in/poornima-mogaveera-195745195/",
+        "instagram":"https://www.instagram.com/__mendon__/?hl=en"
+    }
  ];
 
 

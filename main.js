@@ -417,6 +417,14 @@ let contributers=[
         "github":"https://github.com/POORNIMAMOGAVEERA",
         "linkedin":"https://www.linkedin.com/in/poornima-mogaveera-195745195/",
         "instagram":"https://www.instagram.com/__mendon__/?hl=en"
+    },
+    {
+        "name":"Vaishali Kasondhan",
+        "college":"JSSATEN",
+        "image":"images/vaishali.jpg",
+        "github":"https://github.com/vaishali8799",
+        "linkedin":"https://www.linkedin.com/in/vaishali-kasondhan-52a8ab180/",
+        "instagram":"https://instagram.com/_vaishali_87"
     }
  ];
 

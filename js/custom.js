@@ -1,10 +1,10 @@
 /* HTML document is loaded. DOM is ready.
 -------------------------------------------*/
-$(function(){
+$(()=>{
 
     /* start typed element */
     //http://stackoverflow.com/questions/24874797/select-div-title-text-and-make-array-with-jquery
-    var subElementArray = $.map($('.sub-element'), function(el) { return $(el).text(); });    
+    var subElementArray = $.map($('.sub-element'), (el)=> $(el).text(););    
     $(".element").typed({
         strings: subElementArray,
         typeSpeed: 1,
@@ -24,7 +24,7 @@ $(function(){
     });
 
     /* start navigation top js */
-    $(window).scroll(function(){
+    $(window).scroll(()=>{
         if($(this).scrollTop()>58){
             $(".templatemo-nav").addClass("sticky");
         }
@@ -35,12 +35,12 @@ $(function(){
     
     /* Hide mobile menu after clicking on a link
     -----------------------------------------------*/
-    $('.navbar-collapse a').click(function(){
+    $('.navbar-collapse a').click(()=>{
         $(".navbar-collapse").collapse('hide');
     });
     /* end navigation top js */
 
-    $('body').bind('touchstart', function() {});
+    $('body').bind('touchstart', ()=> {});
 
     /* wow
     -----------------*/
@@ -48,7 +48,7 @@ $(function(){
 });
 
 /* start preloader */
-$(window).load(function(){
+$(window).load(()=>{
 	$('.preloader').fadeOut(1000); // set duration in brackets    
 });
 /* end preloader */

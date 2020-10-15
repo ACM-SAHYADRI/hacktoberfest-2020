@@ -242,6 +242,15 @@ let contributers=[
         "github":"https://github.com/Priyanshu-CODERX",
         "linkedin":"https://www.linkedin.com/in/priyanshu-bhattacharjee/",
         "instagram":"https://www.instagram.com/priyanshu_coderx/"
+    },
+	
+	 {
+        "name":"Sushant Kumar",
+        "college":"Institute of Engineering & Management, Kolkata",
+        "image":"images/facebook dp (2).jpg",
+        "github":"https://github.com/spidergenius",
+        "linkedin":"https://www.linkedin.com/in/sushantgenius1/",
+        "instagram":"https://www.instagram.com/sushantgenius1/"
     }
  ]
 

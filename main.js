@@ -425,7 +425,15 @@ let contributers=[
         "github":"https://github.com/vaishali8799",
         "linkedin":"https://www.linkedin.com/in/vaishali-kasondhan-52a8ab180/",
         "instagram":"https://instagram.com/_vaishali_87"
-    }
+    },
+        {
+        "name":"Sudharshan Bhimisetty",
+        "college":"National Institute Of Technology,Andhra Pradesh",
+        "image":"images/sudharshan.jpg",
+        "github":"https://github.com/SudharshanBhimisetty",
+        "linkedin":"https://www.linkedin.com/in/sudharshan-bhimisetty-19a8241aa/",
+        "instagram":"https://www.instagram.com/siddu__24/"
+    }	
  ];
 
 

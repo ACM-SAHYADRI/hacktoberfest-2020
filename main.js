@@ -425,6 +425,14 @@ let contributers=[
         "github":"https://github.com/vaishali8799",
         "linkedin":"https://www.linkedin.com/in/vaishali-kasondhan-52a8ab180/",
         "instagram":"https://instagram.com/_vaishali_87"
+    },
+	 {
+        "name":"Sushant Kumar",
+        "college":"Institute of Engineering & Management, Kolkata",
+        "image":"images/facebook dp (2).jpg",
+        "github":"https://github.com/spidergenius",
+        "linkedin":"https://www.linkedin.com/in/sushantgenius1/",
+        "instagram":"https://www.instagram.com/sushantgenius1/"
     }
  ];
 

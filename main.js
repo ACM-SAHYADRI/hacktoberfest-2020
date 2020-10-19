@@ -441,7 +441,15 @@ let contributers=[
         "github":"https://github.com/SudharshanBhimisetty",
         "linkedin":"https://www.linkedin.com/in/sudharshan-bhimisetty-19a8241aa/",
         "instagram":"https://www.instagram.com/siddu__24/"
-    }	
+    },
+    {
+        "name":"Waqar Ansari",
+        "college":"Madan Mohan Malviya University ofTechnology, Gorakhpur",
+        "image":"images/waqar.jpg",
+        "github":"https://github.com/mdwaqaransari",
+        "linkedin":"https://www.linkedin.com/in/mohd-waqar-ansari-75b15618b/",
+        "instagram":"https://www.instagram.com/md_waqaransari/"
+    }
  ];
 
 

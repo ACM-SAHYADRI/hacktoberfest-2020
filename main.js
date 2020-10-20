@@ -449,6 +449,14 @@ let contributers=[
         "github":"https://github.com/mdwaqaransari",
         "linkedin":"https://www.linkedin.com/in/mohd-waqar-ansari-75b15618b/",
         "instagram":"https://www.instagram.com/md_waqaransari/"
+    },
+    {
+	"name":"Prayag Raj Singh Pitawat",
+        "college":"SCEM",
+        "image":"images/prayag.jpeg",
+        "github":"https://github.com/PrayagRajSingh",
+        "linkedin":"https://www.linkedin.com/in/prayag-raj-singh-pitawat",
+        "instagram":"https://www.instagram.com/prayag_raj_"
     }
  ];
 

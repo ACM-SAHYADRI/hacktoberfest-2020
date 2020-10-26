@@ -457,7 +457,15 @@ let contributers=[
         "github":"https://github.com/PrayagRajSingh",
         "linkedin":"https://www.linkedin.com/in/prayag-raj-singh-pitawat",
         "instagram":"https://www.instagram.com/prayag_raj_"
-    }
+    },
+	{
+	 "name":"Kavita Prabhu",
+        "college":"Dr. AMbedkar Institute of Technology, Bangalore",
+        "image":"images/Kavita.jpg",
+        "github":"https://github.com/KavitaPrabhu01",
+        "linkedin":"https://www.linkedin.com/in/kavita-prabhu-002196181",
+        "instagram":"https://www.instagram.com/_kavitaprabhu_"
+	}
  ];
 
 

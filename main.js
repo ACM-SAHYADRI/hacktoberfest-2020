@@ -457,6 +457,13 @@ let contributers=[
         "github":"https://github.com/PrayagRajSingh",
         "linkedin":"https://www.linkedin.com/in/prayag-raj-singh-pitawat",
         "instagram":"https://www.instagram.com/prayag_raj_"
+    },
+    {
+	"name":"H S Sampreetha",
+        "college":"SCEM",
+        "image":"images/sam.jpeg",
+        "github":"https://github.com/Sampreethaa",
+        "linkedin":"https://www.linkedin.com/in/sampreetha-h-s-57a401184"
     }
  ];
 

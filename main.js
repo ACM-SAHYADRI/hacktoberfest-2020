@@ -457,7 +457,15 @@ let contributers=[
         "github":"https://github.com/PrayagRajSingh",
         "linkedin":"https://www.linkedin.com/in/prayag-raj-singh-pitawat",
         "instagram":"https://www.instagram.com/prayag_raj_"
-    }
+    },
+    {
+        "name":"Alfredo Valle",
+            "college":"UT-RGV",
+            "image":"images/Phred.jpg",
+            "github":"https://github.com/alvalle09",
+            "linkedin":"https://www.linkedin.com/in/alfredo-valle-886a62139/",
+            "instagram":"https://www.instagram.com/phredvalle/"
+        }
  ];
 
 

@@ -466,7 +466,16 @@ let contributers=[
             "linkedin":"https://www.linkedin.com/in/alfredo-valle-886a62139/",
             "instagram":"https://www.instagram.com/phredvalle/"
         }
+    {
+        "name":"Neha V",
+        "college":"SCEM",
+        "image":"images/neha.jpg",
+        "github":"https://github.com/Neha170202",
+        "linkedin":"https://www.linkedin.com/in/neha-v-b60912202",
+        "instagram":"https://www.instagram.com/nehaaa_17_/_"
+    }    
  ];
+
 
 
 

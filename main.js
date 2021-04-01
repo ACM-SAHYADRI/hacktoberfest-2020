@@ -466,7 +466,15 @@ let contributers=[
             "linkedin":"https://www.linkedin.com/in/alfredo-valle-886a62139/",
             "instagram":"https://www.instagram.com/phredvalle/"
         }
+{
+        "name":"Angel jenice vaz",
+            "college":"SCEM",
+            "image":"",
+            "github":"https://github.com/jenicevaz",
+            "linkedin":"https://www.linkedin.com/in/jenice-vazz-61360b206/",
+            "instagram":"https://www.instagram.com/vazzjenice/"
  ];
+
 
 
 
